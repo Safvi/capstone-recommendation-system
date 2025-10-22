@@ -1,0 +1,736 @@
+book_id,title,authors,average_rating,ratings_count,original_publication_year,language_code,tag_string
+1,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.34,4780653,2008.0,eng,to-read fantasy favorites currently-reading young-adult
+2,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)","J.K. Rowling, Mary GrandPré",4.44,4602479,1997.0,eng,to-read currently-reading fantasy favorites children
+3,"Twilight (Twilight, #1)",Stephenie Meyer,3.57,3866839,2005.0,en-US,to-read favorites fantasy currently-reading young-adult
+5,The Great Gatsby,F. Scott Fitzgerald,3.89,2683664,1925.0,eng,favorites fantasy currently-reading young-adult to-read
+6,The Fault in Our Stars,John Green,4.26,2346404,2012.0,eng,fantasy young-adult fiction harry-potter owned
+8,The Catcher in the Rye,J.D. Salinger,3.79,2044241,1951.0,eng,to-read favorites fantasy currently-reading harry-potter
+10,Pride and Prejudice,Jane Austen,4.24,2035490,1813.0,eng,to-read favorites fantasy currently-reading fiction
+11,The Kite Runner,Khaled Hosseini,4.26,1813044,2003.0,eng,to-read currently-reading science-fiction favorites sci-fi
+13,1984,"George Orwell, Erich Fromm, Celâl Üster",4.14,1956832,1949.0,eng,to-read currently-reading favorites science-fiction sci-fi
+21,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)","J.K. Rowling, Mary GrandPré",4.46,1735368,2003.0,eng,to-read currently-reading history nonfiction favorites
+24,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","J.K. Rowling, Mary GrandPré",4.53,1753043,2000.0,eng,travel non-fiction currently-reading to-read nonfiction
+25,"Harry Potter and the Deathly Hallows (Harry Potter, #7)","J.K. Rowling, Mary GrandPré",4.61,1746574,2007.0,eng,to-read humor nonfiction memoir essays
+26,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,3.79,1447148,2003.0,eng,to-read travel non-fiction currently-reading nonfiction
+27,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)","J.K. Rowling, Mary GrandPré",4.54,1678823,2005.0,eng,to-read travel non-fiction currently-reading nonfiction
+28,Lord of the Flies,William Golding,3.64,1605019,1954.0,eng,to-read travel non-fiction currently-reading nonfiction
+29,Romeo and Juliet,"William Shakespeare, Robert           Jackson",3.73,1628519,1595.0,eng,to-read currently-reading non-fiction humor nonfiction
+30,Gone Girl,Gillian Flynn,4.03,512475,2012.0,eng,to-read fiction classic fantasy series
+33,Memoirs of a Geisha,Arthur Golden,4.08,1300209,1997.0,eng,to-read fantasy currently-reading favorites classics
+34,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,3.67,1338493,2011.0,eng,fantasy to-read classics fiction books-i-own
+36,"The Giver (The Giver, #1)",Lois Lowry,4.12,1296825,1993.0,eng,to-read fantasy tolkien art non-fiction
+50,Where the Sidewalk Ends,Shel Silverstein,4.29,1016888,1974.0,eng,currently-reading young-adult fiction adventure favorites
+67,A Thousand Splendid Suns,Khaled Hosseini,4.34,818742,2007.0,eng,to-read currently-reading historical-fiction pulitzer fiction
+93,The Secret Garden,Frances Hodgson Burnett,4.12,639357,1911.0,eng,to-read classics childrens fiction currently-reading
+98,"The Girl Who Played with Fire (Millennium, #2)","Stieg Larsson, Reg Keeland",4.22,563994,2006.0,eng,to-read currently-reading parenting nonfiction baby
+105,"Allegiant (Divergent, #3)",Veronica Roth,3.63,463257,2013.0,eng,science-fiction sci-fi fiction currently-reading dune
+106,Bossypants,Tina Fey,3.94,506250,2011.0,eng,fiction fantasy science-fiction scifi owned
+112,"Me Before You (Me Before You, #1)",Jojo Moyes,4.27,587647,2012.0,eng,science-fiction sci-fi fiction scifi fantasy
+117,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle,4.04,615907,1962.0,en-US,to-read science-fiction sci-fi fiction currently-reading
+119,The Handmaid's Tale,Margaret Atwood,4.06,607889,1985.0,eng,to-read fantasy currently-reading art tolkien
+122,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)","Gregory Maguire, Douglas Smith",3.52,506900,1995.0,eng,to-read currently-reading fiction favorites historical-fiction
+231,Sarah's Key,Tatiana de Rosnay,4.14,312444,2007.0,eng,to-read fiction currently-reading favorites owned
+249,Extremely Loud and Incredibly Close,Jonathan Safran Foer,3.97,294726,2005.0,en-US,to-read fiction classics favorites owned
+250,Wonder,R.J. Palacio,4.43,228538,2012.0,eng,to-read fiction currently-reading classics favorites
+264,The Sun Also Rises,Ernest Hemingway,3.83,284988,1926.0,en-US,classics fiction favorites classic owned
+275,An Abundance of Katherines,John Green,3.63,312754,2006.0,eng,to-read fiction currently-reading favorites french
+291,Cutting for Stone,Abraham Verghese,4.28,258319,2009.0,eng,to-read poetry novels literature classics
+295,11/22/63,Stephen King,4.29,258464,2011.0,eng,to-read currently-reading classics fiction adventure
+304,I Know This Much Is True,Wally Lamb,4.17,246917,1998.0,eng,classics currently-reading fiction to-read classic
+320,"Where'd You Go, Bernadette",Maria Semple,3.9,215453,2012.0,eng,classics to-read owned literature classic
+343,The Runaway Jury,John Grisham,3.96,222712,1996.0,eng,to-read currently-reading favorites fiction historical-fiction
+348,We Were Liars,E. Lockhart,3.85,273442,2014.0,eng,to-read science-fiction sci-fi fiction time-travel
+350,Fear and Loathing in Las Vegas,"Hunter S. Thompson, Ralph Steadman",4.08,232489,1971.0,eng,science-fiction to-read sci-fi currently-reading fiction
+353,Othello,William Shakespeare,3.88,238875,1603.0,eng,to-read science-fiction sci-fi currently-reading fiction
+355,"Graceling (Graceling Realm, #1)",Kristin Cashore,4.1,281185,2008.0,en-CA,to-read science-fiction sci-fi fiction fantasy
+357,All Quiet on the Western Front,"Erich Maria Remarque, A.W. Wheen",3.92,249113,1929.0,en-US,to-read fiction fantasy science-fiction sci-fi
+359,And the Mountains Echoed,Khaled Hosseini,4.03,199326,2012.0,eng,to-read science-fiction sci-fi fantasy owned
+360,Do Androids Dream of Electric Sheep?,"Philip K. Dick, Roger Zelazny",4.08,223828,1968.0,eng,to-read science-fiction sci-fi fiction humor
+365,V for Vendetta,"Alan Moore, David   Lloyd",4.25,210682,1990.0,eng,to-read currently-reading science-fiction fiction sci-fi
+378,The Namesake,Jhumpa Lahiri,3.96,184211,2003.0,en-US,to-read favorites fantasy currently-reading fiction
+386,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",Scott O'Dell,3.8,236015,1960.0,en-CA,to-read memoir non-fiction nonfiction memoirs
+400,Neuromancer,William Gibson,3.88,183878,1984.0,eng,to-read fiction currently-reading historical-fiction favorites
+415,"Evermore (The Immortals, #1)",Alyson Noel,3.59,230031,2009.0,en-US,to-read fiction currently-reading science-fiction owned
+424,The Name of the Rose,"Umberto Eco, William Weaver, Seán Barrett",4.11,200217,1980.0,en-US,to-read currently-reading nonfiction non-fiction essays
+428,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan,4.47,277491,2012.0,eng,to-read classics novels 1001-books to-buy
+431,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,4.01,194013,1981.0,eng,to-read fiction favorites mystery currently-reading
+432,"I, Robot (Robot #0.1)",Isaac Asimov,4.17,198368,1950.0,eng,to-read fiction currently-reading mystery favorites
+446,A Study in Scarlet,Arthur Conan Doyle,4.15,201499,1887.0,eng,to-read fiction currently-reading favorites contemporary
+447,"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini,4.03,211645,2008.0,eng,currently-reading fiction to-read 1001-books 1001
+449,"Betrayed (House of Night, #2)","P.C. Cast, Kristin Cast",3.93,205340,2007.0,en-US,to-read fiction 1001-books favorites 1001
+456,A Streetcar Named Desire,Tennessee Williams,3.97,194493,1947.0,eng,to-read fiction currently-reading favorites american
+475,"Where She Went (If I Stay, #2)",Gayle Forman,4.06,193141,2011.0,en-US,to-read currently-reading non-fiction history nonfiction
+597,Don Quixote,"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford",3.85,134931,1605.0,eng,to-read non-fiction music currently-reading favorites
+599,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)",Douglas Adams,4.22,153838,1980.0,eng,to-read currently-reading non-fiction nonfiction essays
+621,"Are You There God? It's Me, Margaret",Judy Blume,3.89,151789,1970.0,eng,to-read currently-reading finance non-fiction personal-finance
+629,Veronika Decides to Die,"Paulo Coelho, Margaret Jull Costa",3.69,111856,1998.0,eng,to-read currently-reading philosophy fiction non-fiction
+647,Baby Proof,Emily Giffin,3.71,124371,2006.0,en-US,to-read non-fiction politics currently-reading nonfiction
+656,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter,3.82,150222,2006.0,en-US,to-read currently-reading classics fiction favorites
+662,Interpreter of Maladies,Jhumpa Lahiri,4.12,110651,1999.0,eng,to-read fiction classics favorites philosophy
+665,"The Passage (The Passage, #1)",Justin Cronin,4.04,126993,2010.0,eng,to-read philosophy currently-reading non-fiction nonfiction
+667,Along for the Ride,Sarah Dessen,4.08,151721,2009.0,eng,to-read fiction favorites philosophy dystopia
+668,Everything I Never Told You,Celeste Ng,3.78,108703,2014.0,eng,to-read classics philosophy owned literature
+676,"Entwined with You (Crossfire, #3)",Sylvia Day,4.19,141641,2013.0,eng,to-read poetry currently-reading favorites owned
+698,The Silver Linings Playbook,Matthew Quick,4.0,110939,2008.0,en-US,to-read fiction book-club currently-reading adoption
+703,Bag of Bones,Stephen King,3.87,131004,1998.0,en-US,to-read currently-reading fiction historical-fiction alternate-history
+706,Around the World in Eighty Days,"Jules Verne, Michael Glencross, Brian W. Aldiss",3.9,117108,1872.0,eng,to-read humor non-fiction politics nonfiction
+760,"Ender's Shadow (Ender's Shadow, #1)",Orson Scott Card,4.3,115521,1998.0,eng,to-read fiction currently-reading favorites literature
+771,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson,3.81,110481,2011.0,eng,science to-read physics nonfiction favorites
+816,"Wolf Hall (Thomas Cromwell, #1)",Hilary Mantel,3.85,102936,2009.0,eng,to-read currently-reading fiction science-fiction sci-fi
+822,The Sense of an Ending,Julian Barnes,3.7,94968,2011.0,eng,to-read fiction historical-fiction currently-reading science-fiction
+823,"A is for Alibi (Kinsey Millhone, #1)",Sue Grafton,3.82,116026,1982.0,en-US,to-read currently-reading fiction historical-fiction science-fiction
+825,Shanghai Girls (Shanghai Girls #1),Lisa See,3.87,106729,2009.0,eng,to-read fiction science-fiction currently-reading sci-fi
+827,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han,4.11,136938,2014.0,eng,to-read science-fiction sci-fi currently-reading fiction
+830,The DUFF: Designated Ugly Fat Friend,Kody Keplinger,3.86,136736,2010.0,en-US,to-read currently-reading science-fiction sci-fi fiction
+840,"Shōgun (Asian Saga, #1)",James Clavell,4.37,104339,1975.0,eng,to-read currently-reading design non-fiction favorites
+865,Night Shift,"Stephen King, John D. MacDonald",3.96,104248,1978.0,en-GB,to-read currently-reading fiction favorites classics
+870,Team of Rivals: The Political Genius of Abraham Lincoln,"Doris Kearns Goodwin, Suzanne Toren",4.3,102923,2005.0,eng,to-read favorites manga graphic-novels graphic-novel
+880,"The Summoning (Darkest Powers, #1)",Kelley Armstrong,4.03,132285,2008.0,en-US,to-read historical-fiction fiction currently-reading historical
+890,Second Foundation (Foundation #3),Isaac Asimov,4.23,96865,1953.0,eng,classics to-read fiction favorites classic
+900,The Selfish Gene,Richard Dawkins,4.11,96564,1976.0,eng,to-read currently-reading non-fiction psychology nonfiction
+902,"The Black Echo (Harry Bosch, #1; Harry Bosch Universe, #1)",Michael Connelly,4.08,98591,1992.0,eng,to-read mystery favorites currently-reading young-adult
+903,Anthem,Ayn Rand,3.62,95620,1938.0,eng,to-read fiction young-adult childrens currently-reading
+930,Olive Kitteridge,Elizabeth Strout,3.78,85019,2008.0,eng,to-read favorites fiction historical-fiction currently-reading
+952,"Shopaholic & Baby (Shopaholic, #5)",Sophie Kinsella,3.77,98130,2007.0,eng,to-read parenting non-fiction currently-reading christian
+960,"The Gathering Storm (Wheel of Time, #12)","Robert Jordan, Brandon Sanderson",4.34,94095,2009.0,eng,to-read fiction mystery favorites thriller
+968,Cleopatra: A Life,Stacy Schiff,3.62,73994,2006.0,eng,fiction currently-reading favorites thriller to-read
+998,The Monster at the End of this Book,"Jon Stone, Michael J. Smollin",4.45,102184,1971.0,eng,to-read currently-reading non-fiction finance business
+1005,White Teeth,Zadie Smith,3.75,82474,1999.0,en-US,to-read personal-development finance currently-reading nonfiction
+1032,"Fablehaven (Fablehaven, #1)",Brandon Mull,4.08,99390,2006.0,eng,to-read currently-reading business non-fiction biography
+1052,Handle with Care,Jodi Picoult,3.96,90138,2009.0,eng,to-read currently-reading business finance non-fiction
+1067,"Four to Score (Stephanie Plum, #4)",Janet Evanovich,4.17,106871,1998.0,en-US,to-read history currently-reading non-fiction nonfiction
+1078,Getting Things Done: The Art of Stress-Free Productivity,David    Allen,3.98,75665,2001.0,en-GB,to-read china book-club literature owned
+1110,"Maybe Someday (Maybe, #1)",Colleen Hoover,4.33,81707,2014.0,eng,to-read john-grisham thriller mystery currently-reading
+1171,The Birth of Venus,Sarah Dunant,3.79,78129,2003.0,en-US,to-read currently-reading business finance non-fiction
+1191,"Ringworld (Ringworld, #1)",Larry Niven,3.96,76925,1970.0,eng,to-read cookbooks cooking currently-reading food
+1192,Between Shades of Gray,Ruta Sepetys,4.36,87718,2011.0,eng,to-read cookbooks cooking currently-reading food
+1202,The Accidental Tourist,"Anne Tyler, Jennifer Bassett",3.9,80075,1985.0,eng,to-read nonfiction science currently-reading non-fiction
+1232,"Hard Eight (Stephanie Plum, #8)","Janet Evanovich, Lorelei King",4.17,93057,2002.0,en-US,to-read currently-reading favorites fiction historical-fiction
+1241,Killing Lincoln: The Shocking Assassination that Changed America Forever,"Bill O'Reilly, Martin Dugard",4.02,71868,2011.0,eng,to-read non-fiction currently-reading biography book-club
+1274,The Night Before Christmas,"Clement C. Moore, Jan Brett",4.36,81553,1986.0,en-US,to-read currently-reading non-fiction self-help psychology
+1295,"Never Too Far (Rosemary Beach, #2; Too Far, #2)",Abbi Glines,4.21,97616,2013.0,eng,to-read currently-reading historical-fiction owned series
+1301,The Broker,John Grisham,3.77,65428,2005.0,eng,to-read currently-reading non-fiction sports nonfiction
+1303,"The Road Less Traveled: A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck,4.03,61238,1978.0,en-US,to-read currently-reading non-fiction business psychology
+1305,"The Boxcar Children (The Boxcar Children, #1)","Gertrude Chandler Warner, L. Kate Deal",4.09,92916,1942.0,en-US,to-read currently-reading fiction historical-fiction history
+1307,How to Be a Woman,Caitlin Moran,3.73,70446,2011.0,eng,to-read fantasy owned default fiction
+1319,"All the Pretty Horses (The Border Trilogy, #1)",Cormac McCarthy,3.97,68451,1992.0,eng,to-read currently-reading writing self-help nonfiction
+1362,"Winter's Heart (Wheel of Time, #9)",Robert Jordan,3.92,71355,2000.0,en-US,to-read history classics non-fiction currently-reading
+1371,Predictably Irrational: The Hidden Forces That Shape Our Decisions,Dan Ariely,4.1,61496,2007.0,en-US,to-read classics currently-reading poetry fiction
+1375,Me and Earl and the Dying Girl,Jesse Andrews,3.58,82270,2012.0,en-US,classics fiction poetry favorites classic
+1381,"The Eyre Affair (Thursday Next, #1)",Jasper Fforde,3.92,85683,2001.0,en-US,to-read classics currently-reading fiction poetry
+1420,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,4.15,64391,1960.0,eng,to-read currently-reading classics plays favorites
+1427,Heart-Shaped Box,Joe Hill,3.82,65005,2007.0,en-US,to-read currently-reading favorites fiction philosophy
+1428,"Cabin Fever (Diary of a Wimpy Kid, #6)",Jeff Kinney,4.21,63347,2010.0,eng,to-read currently-reading fiction favorites paulo-coelho
+1430,Everyone Worth Knowing,Lauren Weisberger,3.39,59932,2005.0,en-US,to-read currently-reading fiction favorites paulo-coelho
+1431,"Redwall (Redwall, #1)",Brian Jacques,4.11,73918,1986.0,eng,to-read owned novels novel currently-reading
+1519,"The Diamond Age: or, A Young Lady's Illustrated Primer",Neal Stephenson,4.19,61836,1995.0,eng,to-read classics plays drama currently-reading
+1524,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,3.99,80737,2016.0,eng,to-read classics plays drama fiction
+1540,"Masquerade (Blue Bloods, #2)",Melissa de la Cruz,3.91,76598,2007.0,en-US,classics plays currently-reading drama fiction
+1554,"Ptolemy's Gate (Bartimaeus, #3)",Jonathan Stroud,4.24,63838,2006.0,eng,drama fiction school to-read play
+1617,"Without Fail (Jack Reacher, #6)","Lee Child, Dick Hill",4.16,53411,2002.0,eng,to-read non-fiction currently-reading favorites classics
+1618,"A Voice in the Wind (Mark of the Lion, #1)","Francine Rivers, Richard Ferrone",4.6,55556,1993.0,en-US,to-read currently-reading fiction favorites young-adult
+1622,A Connecticut Yankee in King Arthur's Court,Mark Twain,3.76,50112,1889.0,eng,to-read classics currently-reading plays favorites
+1624,Nausea,"Jean-Paul Sartre, Lloyd Alexander, Hayden Carruth",3.91,50876,1938.0,eng,to-read currently-reading non-fiction memoir biography
+1625,Wild at Heart: Discovering the Secret of a Man's Soul,John Eldredge,3.93,50215,2001.0,eng,to-read classics plays currently-reading shakespeare
+1627,"Twelve Sharp (Stephanie Plum, #12)",Janet Evanovich,4.14,74747,2006.0,eng,to-read fiction short-stories romance lgbt
+1633,"Memnoch the Devil (The Vampire Chronicles, #5)",Anne Rice,3.73,62641,1995.0,eng,to-read currently-reading owned leadership non-fiction
+1635,"Click, Clack, Moo: Cows That Type","Doreen Cronin, Betsy Lewin",4.23,67171,1999.0,eng,to-read business currently-reading leadership management
+1715,Let the Right One In,John Ajvide Lindqvist,4.07,52518,2004.0,eng,poetry mythology favorites fiction to-read
+1823,"A Bear Called Paddington (Paddington, #1)","Michael Bond, Peggy Fortnum",4.21,62590,1958.0,eng,to-read non-fiction currently-reading nonfiction politics
+1824,"Flawless (Pretty Little Liars, #2)",Sara Shepard,3.96,59403,2007.0,en-US,to-read non-fiction nonfiction history currently-reading
+1842,Perfect Match,Jodi Picoult,3.93,52168,2002.0,eng,to-read currently-reading history non-fiction nonfiction
+1845,Alias Grace,"Margaret Atwood, Brigitte Walitzek",3.97,51511,1996.0,ger,to-read non-fiction currently-reading favorites nonfiction
+1846,"Captivated by You (Crossfire, #4)",Sylvia Day,4.06,57831,2014.0,eng,to-read currently-reading christian non-fiction favorites
+1848,"Soulless (Parasol Protectorate, #1)",Gail Carriger,3.91,73051,2009.0,eng,to-read currently-reading biography favorites non-fiction
+1849,"Just One Day (Just One Day, #1)",Gayle Forman,4.02,47674,2013.0,eng,to-read fiction currently-reading nelson-demille mystery
+1852,"Glass (Crank, #2)",Ellen Hopkins,4.28,51726,2007.0,eng,currently-reading classics fiction favorites classic
+1869,"Dealing with Dragons (Enchanted Forest Chronicles, #1)","Patricia C. Wrede, Peter de Sève",4.14,67663,1990.0,en-US,to-read favorites non-fiction nonfiction sociology
+1875,A Bad Case of Stripes,David Shannon,4.24,51764,1998.0,eng,to-read non-fiction theory nonfiction currently-reading
+1885,As You Like It,William Shakespeare,3.83,56395,1599.0,eng,classics favorites fiction romance classic
+1897,The Lost Boy (Dave Pelzer #2),Dave Pelzer,4.08,46847,1997.0,eng,to-read non-fiction currently-reading adventure mountaineering
+1898,"Dust (Silo, #3)",Hugh Howey,4.26,33132,2013.0,eng,to-read non-fiction currently-reading favorites nonfiction
+1911,"Faithful Place (Dublin Murder Squad, #3)",Tana French,3.97,55355,2010.0,eng,to-read currently-reading non-fiction history business
+1934,"Heat Wave (Nikki Heat, #1)",Richard Castle,3.54,49283,2008.0,en-US,to-read currently-reading classics favorites fiction
+1953,"The Man in the Iron Mask (The D'Artagnan Romances, #3.3)","Alexandre Dumas, Francine du Plessix Gray, Joachim Neugroschel",3.97,51856,1850.0,eng,to-read currently-reading classics fiction favorites
+1990,The Art of Hearing Heartbeats,"Jan-Philipp Sendker, Kevin Wiliarty",3.98,41647,2002.0,eng,classics fiction to-read dickens classic
+2002,The Death of Ivan Ilych,"Leo Tolstoy, Aylmer Maude",4.04,46357,1886.0,eng,to-read fantasy harry-potter fiction books-i-own
+2050,"Night World, No. 2 (Night World, #4-6)",L.J. Smith,4.2,53023,2008.0,en-CA,to-read mystery currently-reading noir favorites
+2052,"The Oedipus Cycle: Oedipus Rex/Oedipus at Colonus/Antigone (The Theban Plays, #1–3)","Sophocles, Dudley Fitts, Elena Bono, Robert Fitzgerald",3.96,42175,-401.0,en-US,noir to-read favorites 1001-books classic
+2054,"Girls in Pants: The Third Summer of the Sisterhood (Sisterhood, #3)",Ann Brashares,3.82,56485,2005.0,eng,to-read mystery fiction currently-reading crime
+2067,The House Girl,Tara Conklin,3.75,41671,2013.0,eng,to-read philosophy religion non-fiction science
+2094,"Smokin' Seventeen (Stephanie Plum, #17)","Janet Evanovich, Lorelei King",3.94,41932,2011.0,eng,to-read non-fiction currently-reading nonfiction science
+2095,The Sneetches and Other Stories,Dr. Seuss,4.31,52954,1961.0,en-US,to-read physics science non-fiction nonfiction
+2122,Cut,Patricia McCormick,3.76,48239,2000.0,en-US,to-read currently-reading fiction classics favorites
+2137,The Children Act,Ian McEwan,3.68,33100,2014.0,eng,to-read fiction favorites lgbt 1001-books
+2142,The Iliad/The Odyssey,"Homer, Robert Fagles, Bernard Knox",4.03,47825,-762.0,eng,to-read currently-reading christian-fiction suspense fiction
+2152,"Perfect (Pretty Little Liars, #3)",Sara Shepard,4.02,50922,2007.0,eng,to-read fiction chick-lit currently-reading books-i-own
+2156,"Red Mars (Mars Trilogy, #1)",Kim Stanley Robinson,3.84,46121,1993.0,en-US,to-read classics currently-reading favorites fiction
+2159,"Sea Swept (Chesapeake Bay Saga, #1)",Nora Roberts,4.24,48078,1998.0,en-US,to-read non-fiction economics politics currently-reading
+2175,Alexander Hamilton,Ron Chernow,4.26,46198,2004.0,eng,to-read currently-reading classics fiction favorites
+2183,"Love Unscripted (Love, #1)",Tina Reber,4.04,59261,2010.0,en-US,to-read fiction france 19th-century classic
+2187,We,"Yevgeny Zamyatin, Clarence Brown",3.95,40020,1924.0,eng,to-read currently-reading fiction favorites book-club
+2199,The Lottery and Other Stories,Shirley Jackson,4.06,48608,1949.0,en-US,to-read currently-reading history non-fiction biography
+2203,The Odessa File,Frederick Forsyth,4.1,42529,1972.0,en-US,to-read currently-reading history biography non-fiction
+2255,An Unquiet Mind: A Memoir of Moods and Madness,Kay Redfield Jamison,4.03,41102,1995.0,eng,to-read currently-reading favorites spirituality fiction
+2265,"Lies (Gone, #3)",Michael  Grant,4.09,48506,2010.0,en-US,to-read cycling autobiography sports favorites
+2279,Neither Here nor There: Travels in Europe,Bill Bryson,3.88,42170,1991.0,en-US,to-read currently-reading history biography presidents
+2368,Gap Creek,Robert Morgan,3.71,42122,1999.0,en-US,to-read biography currently-reading history non-fiction
+2371,"Bitter Is the New Black: Confessions of a Condescending, Egomaniacal, Self-Centered Smartass, Or, Why You Should Never Carry A Prada Bag to the Unemployment Office",Jen Lancaster,3.9,41884,2006.0,eng,to-read history nonfiction non-fiction currently-reading
+2373,"Blindsighted (Grant County, #1)",Karin Slaughter,4.1,41857,2001.0,eng,to-read mystery currently-reading thriller crime
+2430,"Grave Sight (Harper Connelly, #1)",Charlaine Harris,3.85,52215,2005.0,eng,to-read fiction mystery currently-reading steve-martini
+2493,"Captain's Fury (Codex Alera, #4)",Jim Butcher,4.38,42769,2007.0,eng,to-read currently-reading classics science-fiction sci-fi
+2517,The Spy Who Came In from the Cold,John le Carré,4.05,37557,1963.0,eng,to-read currently-reading fiction historical-fiction favorites
+2526,"All-Star Superman, Vol. 1","Grant Morrison, Frank Quitely",4.06,35061,2007.0,eng,to-read currently-reading fiction favorites dystopia
+2528,"Dark Witch (The Cousins O'Dwyer Trilogy, #1)",Nora Roberts,3.91,33481,2013.0,eng,to-read currently-reading fiction favorites owned
+2530,The Widow,Fiona Barton,3.49,36504,2016.0,eng,to-read favorites fiction historical-fiction portuguese
+2547,"Violets Are Blue (Alex Cross, #7)",James Patterson,3.94,41555,2001.0,eng,to-read poetry favorites philosophy classics
+2612,"A Suitable Boy (A Suitable Boy, #1)",Vikram Seth,4.1,33973,1993.0,en-US,to-read currently-reading non-fiction nonfiction business
+2615,I Like You: Hospitality Under the Influence,Amy Sedaris,3.87,34212,2006.0,eng,to-read currently-reading business non-fiction innovation
+2623,"Wild Magic (Immortals, #1)",Tamora Pierce,4.32,52165,1992.0,en-US,to-read currently-reading classics fiction favorites
+2657,False Memory,Dean Koontz,3.87,36882,1999.0,en-US,classics favorites to-read classic historical-fiction
+2666,"Executive Orders (Jack Ryan Universe, #9)",Tom Clancy,4.04,35513,1996.0,eng,to-read fiction favorites classics 1001-books
+2677,"Thief of Time (Discworld, #26; Death, #5)",Terry Pratchett,4.25,42002,2001.0,eng,to-read fiction humor satire classic
+2696,Put Me in the Zoo,Robert Lopshire,4.13,38809,1960.0,eng,poetry to-read classic favorites school
+2715,"Night Star (The Immortals, #5)",Alyson Noel,3.82,43998,2010.0,eng,history non-fiction to-read nonfiction food
+2743,Nimona,Noelle Stevenson,4.2,44825,2015.0,eng,to-read currently-reading non-fiction biography memoir
+2748,"Grounded (Up in the Air, #3)",R.K. Lilley,4.29,53089,2013.0,en-GB,to-read favorites fiction humor owned
+2767,"Saga, Vol. 3 (Saga, #3)","Brian K. Vaughan, Fiona Staples",4.56,47549,2014.0,eng,to-read currently-reading history non-fiction nonfiction
+2784,Decision Points,George W. Bush,3.77,28943,2010.0,eng,to-read currently-reading non-fiction philosophy favorites
+2794,The Four Loves,C.S. Lewis,4.16,29684,1960.0,en-US,to-read fiction favorites classics currently-reading
+2839,War Brides,Helen Bryan,3.75,16565,2007.0,en-CA,to-read favorites young-adult fiction childrens
+2865,"The Gashlycrumb Tinies (The Vinegar Works, #1)",Edward Gorey,4.23,37054,1963.0,eng,to-read historical-fiction fiction favorites historical
+2872,"Necessary Lies (Necessary Lies, #1)",Diane Chamberlain,4.21,32761,2013.0,eng,to-read historical-fiction historical currently-reading favorites
+2873,Lucifer's Hammer,"Larry Niven, Jerry Pournelle",3.98,33228,1977.0,en-US,to-read historical-fiction fiction historical favorites
+2880,"Divergent Series Complete Box Set (Divergent, #1-3)",Veronica Roth,4.32,19325,2013.0,en-US,to-read manga currently-reading fantasy favorites
+2915,Bird Box,Josh Malerman,3.98,31735,2014.0,eng,to-read currently-reading young-adult fiction adventure
+2932,"The Diviners (The Diviners, #1)",Libba Bray,3.96,44513,2012.0,en-US,to-read classics currently-reading fiction classic
+2956,Vampire Academy: The Ultimate Guide (Vampire Academy),"Michelle Rowen, Richelle Mead",4.45,32818,2011.0,eng,currently-reading classics fiction classic favorites
+2978,The Emperor's Soul,Brandon Sanderson,4.33,33634,2012.0,eng,currently-reading to-read classic books-i-own literature
+2998,"Magic Bleeds (Kate Daniels, #4)",Ilona Andrews,4.46,50637,2010.0,eng,to-read classics currently-reading favorites fiction
+3008,Twenty Boy Summer,Sarah Ockler,3.89,35435,2009.0,en-US,to-read currently-reading classics favorites fiction
+3028,Sarum: The Novel of England,Edward Rutherfurd,4.07,28292,1987.0,eng,to-read currently-reading economics non-fiction politics
+3049,The Teachings of Don Juan: A Yaqui Way of Knowledge ,Carlos Castaneda,3.94,27784,1968.0,en-US,to-read classics poetry fantasy fiction
+3061,The Problem of Pain,C.S. Lewis,4.12,29179,1940.0,eng,to-read currently-reading art drawing non-fiction
+3087,"The Bone Season (The Bone Season, #1)",Samantha Shannon,3.75,27652,2013.0,eng,to-read classics fiction favorites romance
+3102,The Weight of Silence,Heather Gudenkauf,3.93,33235,2008.0,eng,to-read fiction favorites literature 1001-books
+3103,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,3.92,29215,2015.0,eng,to-read classics fiction lgbt favorites
+3109,Master and Commander,Patrick O'Brian,4.1,31215,1969.0,eng,to-read currently-reading non-fiction food nonfiction
+3110,"Dragon Ball, Vol. 1: The Monkey King (Dragon Ball, #1)",Akira Toriyama,4.42,27382,1985.0,eng,to-read nonfiction non-fiction history favorites
+3273,Bleachers,John Grisham,3.46,27719,2003.0,eng,to-read historical-fiction currently-reading book-club fiction
+3291,"Stone of Farewell (Memory, Sorrow, and Thorn, #2)",Tad Williams,4.09,32709,1990.0,en-US,to-read currently-reading fiction short-stories favorites
+3304,Freckle Juice,Judy Blume,3.82,34579,1978.0,eng,to-read currently-reading fantasy young-adult fiction
+3368,Through the Woods,Emily Carroll,3.92,32781,2014.0,eng,to-read currently-reading design ux non-fiction
+3378,"Frost Burned (Mercy Thompson, #7)",Patricia Briggs,4.35,36759,2013.0,eng,to-read fiction currently-reading favorites contemporary
+3379,Père Goriot,Honoré de Balzac,3.82,26070,1834.0,en-US,fiction to-read currently-reading favorites canadian
+3384,"Perfection (Neighbor from Hell, #2)",R.L. Mathewson,4.16,50146,2011.0,eng,to-read fiction favorites currently-reading canadian
+3388,"Absalom, Absalom!",William Faulkner,3.96,30283,1936.0,eng,to-read war greece books-i-own book-club
+3412,Enduring Love,Ian McEwan,3.62,26390,1997.0,eng,to-read currently-reading historical-romance favorites fiction
+3431,"Body Double (Rizzoli & Isles, #4)",Tess Gerritsen,4.16,30834,2004.0,en-US,to-read currently-reading spiritual fiction favorites
+3446,When God Was a Rabbit,Sarah Winman,3.67,24660,2011.0,eng,to-read fiction currently-reading war favorites
+3447,Love & Misadventure,Lang Leav,4.05,28782,2013.0,eng,to-read fiction currently-reading favorites mystery
+3462,"Snuff (Discworld, #39; City Watch #8)",Terry Pratchett,4.15,30570,2011.0,en-GB,to-read nicholas-sparks romance fiction favorites
+3463,"Magic Slays (Kate Daniels, #5)",Ilona Andrews,4.43,44588,2011.0,eng,to-read nicholas-sparks romance currently-reading fiction
+3464,The Doors of Perception & Heaven and Hell,Aldous Huxley,3.96,24213,1956.0,eng,to-read romance fiction books-i-own currently-reading
+3467,"The Black Box (Harry Bosch, #18; Harry Bosch Universe, #22)",Michael Connelly,4.09,25288,2012.0,eng,to-read currently-reading young-adult dystopian fantasy
+3473,"Dark Visions (Dark Visions, #1-3)",L.J. Smith,4.19,33023,1991.0,eng,to-read owned adult owned-books currently-reading
+3476,Fever Pitch,Nick Hornby,3.72,25374,1992.0,eng,to-read fiction currently-reading books-i-own oprah-s-book-club
+3478,"Tricked (The Iron Druid Chronicles, #4)",Kevin Hearne,4.25,30578,2012.0,eng,to-read romance nicholas-sparks currently-reading fiction
+3483,"Emperor of Thorns (The Broken Empire, #3)",Mark  Lawrence,4.27,21143,2013.0,eng,to-read fiction favorites mystery books-i-own
+3507,"The Gods of Guilt (Mickey Haller, #6; Harry Bosch Universe, #23)",Michael Connelly,4.09,21903,2013.0,eng,to-read mystery janet-evanovich fiction humor
+3559,"The Thousand-Dollar Tan Line (Veronica Mars, #1)","Rob Thomas, Jennifer Graham",3.99,28789,2014.0,eng,to-read currently-reading history non-fiction middle-east
+3562,"Martin the Warrior (Redwall, #6)",Brian Jacques,4.13,34640,1993.0,eng,to-read classics young-adult favorites fiction
+3579,I Feel Bad about My Neck: And Other Thoughts on Being a Woman,Nora Ephron,3.65,29749,2006.0,en-US,to-read children ya children-s-books childhood
+3581,Gravity's Rainbow,Thomas Pynchon,4.03,24990,1973.0,eng,to-read currently-reading classics mystery favorites
+3586,The Shock Doctrine: The Rise of Disaster Capitalism,Naomi Klein,4.22,24111,2006.0,en-US,to-read classics currently-reading mystery fiction
+3590,The Tin Drum,Günter Grass,3.96,25332,1959.0,eng,to-read classics mystery fiction favorites
+3636,"Eragon, Eldest & Brisingr (Inheritance, #1-3)",Christopher Paolini,4.2,25623,2008.0,eng,to-read favorites children fiction classics
+3648,"Wolf-Speaker (Immortals, #2)",Tamora Pierce,4.21,37448,1993.0,eng,to-read currently-reading fiction book-club books-i-own
+3656,Bergdorf Blondes,Plum Sykes,3.26,23795,2004.0,en-US,to-read fiction 1001-books booker-prize ireland
+3679,"Scott Pilgrim, Volume 6: Scott Pilgrim's Finest Hour",Bryan Lee O'Malley,4.41,29308,2010.0,eng,to-read currently-reading fiction favorites books-i-own
+3682,"Lost in Shangri-la: A True Story of Survival, Adventure, and the Most Incredible Rescue Mission of World War II",Mitchell Zuckoff,3.82,27776,2011.0,eng,to-read fantasy young-adult historical paranormal
+3685,Empty Mansions: The Mysterious Life of Huguette Clark and the Spending of a Great American Fortune,"Bill Dedman, Paul Clark Newell Jr.",3.76,22819,2013.0,eng,to-read classics currently-reading fiction favorites
+3686,Remarkable Creatures ,Tracy Chevalier,3.81,29667,2009.0,eng,to-read non-fiction currently-reading nonfiction favorites
+3692,Crossing to Safety,Wallace Stegner,4.16,25578,1987.0,eng,to-read classics africa favorites literature
+3710,"A Kingdom of Dreams (Westmoreland, #1)",Judith McNaught,4.25,34308,1989.0,eng,to-read fiction currently-reading novels books-i-own
+3711,"Ship Breaker (Ship Breaker, #1)",Paolo Bacigalupi,3.74,31911,2010.0,eng,to-read fiction currently-reading favorites contemporary
+3717,The Social Contract,"Jean-Jacques Rousseau, Maurice Cranston",3.75,24397,1762.0,eng,to-read essays chuck-palahniuk books-i-own favorites
+3750,"Reliquary (Pendergast, #2)","Douglas Preston, Lincoln Child",4.0,27362,1997.0,en-US,to-read fiction currently-reading james-bond thriller
+3757,"The Hypnotist (Joona Linna, #1)","Lars Kepler, Ann Long",3.63,23690,2009.0,eng,to-read fiction james-bond thriller currently-reading
+3758,"On a Pale Horse (Incarnations of Immortality, #1)",Piers Anthony,4.13,29492,1983.0,en-US,to-read currently-reading fiction thriller james-bond
+3760,Are You Afraid of the Dark?,Sidney Sheldon,3.64,21443,1985.0,eng,to-read fiction james-bond thriller currently-reading
+3762,Ten Apples Up On Top!,"Theo LeSieg, Roy McKie",4.11,28034,1961.0,eng,to-read fiction james-bond thriller currently-reading
+3763,An American Tragedy,"Theodore Dreiser, Richard R. Lingeman",3.94,25665,1925.0,eng,fiction currently-reading thriller james-bond to-read
+3764,The Snows of Kilimanjaro and Other Stories,Ernest Hemingway,3.88,21365,1938.0,eng,to-read fiction currently-reading thriller james-bond
+3805,"The Weed That Strings the Hangman's Bag (Flavia de Luce, #2)",Alan Bradley,3.99,33519,2010.0,eng,to-read currently-reading fiction owned contemporary
+3832,"Danse Macabre (Anita Blake, Vampire Hunter, #14)",Laurell K. Hamilton,3.81,36848,2006.0,eng,to-read mystery fiction currently-reading mysteries
+3836,"The Magic Faraway Tree (The Faraway Tree, #2)",Enid Blyton,4.29,26364,1943.0,eng,classics fiction to-read favorites literature
+3858,"Interesting Times (Discworld, #17; Rincewind #5)",Terry Pratchett,4.17,26733,1994.0,en-US,to-read travel currently-reading india non-fiction
+3867,So You've Been Publicly Shamed,Jon Ronson,3.91,22484,2015.0,eng,to-read fiction favorites book-club historical-fiction
+3869,Vernon God Little,D.B.C. Pierre,3.58,22284,2003.0,eng,currently-reading to-read science non-fiction nonfiction
+3872,for colored girls who have considered suicide/when the rainbow is enuf,Ntozake Shange,4.27,24288,1975.0,en-US,to-read non-fiction history currently-reading nonfiction
+3873,The Obsession,Nora Roberts,4.18,25318,2016.0,eng,to-read religion currently-reading history non-fiction
+3876,"The Last Precinct (Kay Scarpetta, #11)",Patricia Cornwell,3.83,26250,2000.0,eng,to-read classics currently-reading fiction favorites
+3882,"The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",Chris Guillebeau,3.85,26097,2012.0,eng,to-read cookbooks cooking currently-reading food
+3885,Born a Crime: Stories From a South African Childhood,Trevor Noah,4.49,42573,2016.0,eng,to-read cookbooks cooking currently-reading cookbook
+3888,North of Beautiful,Justina Chen,3.92,32034,2009.0,en-US,to-read cookbooks cooking currently-reading food
+3895,Willow,Julia Hoban,3.94,28342,2009.0,en-US,to-read cookbooks cooking currently-reading food
+3973,Deliverance,James Dickey,3.86,24522,1970.0,eng,to-read fantasy sf favorites currently-reading
+3974,"Dragonsinger (Harper Hall, #2)",Anne McCaffrey,4.26,31874,1977.0,eng,to-read horror currently-reading historical-fiction fiction
+3977,"D.Gray-man, Volume 01","Katsura Hoshino, Mayumi Kobayashi",4.21,23910,2004.0,eng,to-read science-fiction sci-fi currently-reading fiction
+3980,"The Redemption of Callie & Kayden (The Coincidence, #2)",Jessica Sorensen,4.11,38452,2013.0,eng,to-read favorites fiction childrens young-adult
+3985,Love Is a Mix Tape,Rob Sheffield,3.83,21971,2007.0,en-US,to-read currently-reading fiction favorites historical-fiction
+4004,Homage to Catalonia,"George Orwell, Lionel Trilling",4.14,22227,1938.0,eng,to-read currently-reading fiction paulo-coelho owned
+4005,Good Grief,Lolly Winston,3.72,24273,2004.0,en-US,to-read fiction currently-reading novel novels
+4006,"A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, #1-3)","George R.R. Martin, Gary Gianni",4.19,20009,2013.0,eng,to-read currently-reading fiction paulo-coelho owned
+4008,"Undeniable (Undeniable, #1)",Madeline Sheehan,4.08,38501,2012.0,eng,paulo-coelho favorites 1001-books owned philosophy
+4031,Island of the Sequined Love Nun,"Christopher Moore, Oliver Wyman",3.78,25166,1997.0,en-GB,to-read fiction currently-reading horror favorites
+4035,The Barefoot Contessa Cookbook,"Ina Garten, Melanie Acevedo",4.21,22497,1999.0,en-GB,to-read fiction mystery currently-reading legal-thriller
+4069,East,Edith Pattou,4.14,30596,2003.0,en-US,to-read currently-reading non-fiction psychology philosophy
+4076,"Fragile Eternity (Wicked Lovely, #3)",Melissa Marr,3.83,37303,2009.0,en-US,to-read business currently-reading non-fiction business-books
+4099,The Heroin Diaries: A Year In The Life Of A Shattered Rock Star,Nikki Sixx,4.12,20531,2005.0,en-GB,to-read currently-reading programming computer-science non-fiction
+4122,Once We Were Brothers,Ronald H. Balson,4.28,13856,2010.0,en-GB,to-read business currently-reading non-fiction leadership
+4135,"The Retribution of Mara Dyer (Mara Dyer, #3)",Michelle Hodkin,4.14,35910,2014.0,eng,to-read humor non-fiction currently-reading nonfiction
+4137,A Wolf at the Table,Augusten Burroughs,3.7,22175,2008.0,eng,to-read humor non-fiction favorites memoir
+4138,"Seventh Son (Tales of Alvin Maker, #1)",Orson Scott Card,3.86,26621,1987.0,eng,to-read humor currently-reading non-fiction memoir
+4143,On the Fence,Kasie West,4.04,30934,2014.0,eng,to-read humor currently-reading non-fiction essays
+4214,A Single Shard,Linda Sue Park,3.87,27345,2001.0,eng,to-read fantasy book-club currently-reading adventure
+4261,"Moo, Baa, La La La!",Sandra Boynton,4.19,26065,1982.0,eng,to-read music non-fiction currently-reading rory-gilmore-reading-challenge
+4264,ذاكرة الجسد,"أحلام مستغانمي, Ahlam Mosteghanemi",3.87,17717,1993.0,ara,to-read currently-reading fiction sports non-fiction
+4268,Pompeii,Robert   Harris,3.79,22734,2003.0,eng,fiction to-read contemporary humor books-i-own
+4325,"The Walking Dead, Vol. 03: Safety Behind Bars","Robert Kirkman, Charlie Adlard",4.31,23167,2005.0,eng,to-read favorites ya young-adult books-i-own
+4339,"Tiger's Quest (The Tiger Saga, #2)",Colleen Houck,4.34,28303,2011.0,en-US,to-read currently-reading non-fiction history war
+4364,The Success Principles: How to Get from Where You Are to Where You Want to Be,"Jack Canfield, Janet Switzer",4.26,19634,2004.0,en-US,to-read india non-fiction travel nonfiction
+4373,"Crashed (Driven, #3)",K. Bromberg,4.56,32520,2014.0,eng,to-read non-fiction currently-reading memoir history
+4381,The Sun Is Also a Star,Nicola Yoon,4.14,42363,2016.0,eng,to-read classics currently-reading favorites fiction
+4395,Women Who Run With the Wolves: Myths and Stories of the Wild Woman Archetype,Clarissa Pinkola Estés,4.15,21127,1992.0,eng,to-read classics fiction favorites classic
+4406,"Welcome to Temptation (Dempseys, #1)",Jennifer Crusie,3.94,27123,1996.0,eng,to-read classics fiction currently-reading classic
+4407,Inside Out & Back Again,Thanhha Lai,4.09,22972,2011.0,eng,fantasy favorites to-read fiction urban-fantasy
+4473,Brick Lane,Monica Ali,3.38,21002,2003.0,eng,to-read fiction favorites currently-reading classics
+4477,A Universe from Nothing: Why There Is Something Rather Than Nothing,"Lawrence M. Krauss, Richard Dawkins",3.92,17204,2012.0,eng,currently-reading non-fiction nonfiction medical to-read
+4507,"Y: The Last Man, Vol. 5: Ring of Truth (Y: The Last Man, #5)","Brian K. Vaughan, Pia Guerra, José Marzán Jr.",4.27,24606,2004.0,eng,to-read non-fiction currently-reading memoir memoirs
+4516,The Strange Library,"Haruki Murakami, Ted Goossen",3.55,18806,2005.0,en-GB,to-read favorites currently-reading young-adult horror
+4530,"Debt of Bones (Sword of Truth, #0.5)",Terry Goodkind,3.85,23279,1998.0,eng,to-read chick-lit fiction currently-reading chicklit
+4538,The Swan Thieves,Elizabeth Kostova,3.53,23399,2010.0,eng,to-read young-adult fiction newbery favorites
+4588,"First King of Shannara (The Original Shannara Trilogy, #0)",Terry Brooks,3.94,22623,1996.0,eng,favorites to-read fiction book-club books-i-own
+4591,أنت لي,منى المرشود,4.03,15108,2007.0,ara,to-read science currently-reading non-fiction biology
+4599,"The Crimson Crown (Seven Realms, #4)",Cinda Williams Chima,4.48,27279,2012.0,eng,to-read fiction currently-reading historical-fiction favorites
+4625,"Twenty-Eight and a Half Wishes (Rose Gardner Mystery, #1)",Denise Grover Swank,3.9,11006,2011.0,eng,to-read short-stories fiction classics favorites
+4630,"Bare Bones (Temperance Brennan, #6)",Kathy Reichs,3.95,26419,2003.0,en-US,to-read fiction currently-reading classics rory-gilmore-reading-challenge
+4631,Beautiful Day,Elin Hilderbrand,3.75,19563,2013.0,en-US,to-read travel hemingway american currently-reading
+4633,"Dexter in the Dark (Dexter, #3)",Jeff Lindsay,3.49,22484,2006.0,en-US,to-read currently-reading fiction classics favorites
+4645,"Eight Cousins (Eight Cousins, #1)",Louisa May Alcott,4.02,27612,1874.0,eng,to-read fiction currently-reading classics short-stories
+4652,"Devoured (Devoured, #1)",Emily Snow,3.94,33961,2012.0,eng,to-read fiction classics short-stories currently-reading
+4656,"A Caress of Twilight (Merry Gentry, #2)",Laurell K. Hamilton,4.05,29980,2002.0,en-US,to-read fiction currently-reading john-irving owned
+4657,The Manchurian Candidate (Movie Tie-In Edition),Richard Condon,4.09,19205,1959.0,en-US,to-read currently-reading fiction john-irving default
+4659,"Nevermore (Maximum Ride, #8)",James Patterson,3.88,27982,2012.0,eng,fiction to-read favorites owned books-i-own
+4660,Operating Instructions: A Journal of My Son's First Year,Anne Lamott,4.18,19466,1993.0,eng,to-read fiction currently-reading john-irving owned
+4662,"Simple Perfection (Rosemary Beach, #6; Perfection, #2)",Abbi Glines,4.25,35952,2013.0,eng,to-read classics currently-reading short-stories to-buy
+4671,"Breath, Eyes, Memory",Edwidge Danticat,3.86,22123,1994.0,eng,classics favorites fiction classic books-i-own
+4687,"The Seeing Stone (The Spiderwick Chronicles, #2)","Holly Black, Tony DiTerlizzi",3.87,29213,2000.0,eng,to-read fiction currently-reading favorites historical-fiction
+4692,The Cellist of Sarajevo,Steven Galloway,4.02,20403,2008.0,eng,historical-fiction to-read fiction currently-reading historical
+4796,Be Here Now,"Ram Dass, Richard Alpert",4.27,18275,1971.0,en-US,classics fiction to-read favorites classic
+4799,"The Ruby Knight (The Elenium, #2)",David Eddings,3.96,24586,1990.0,eng,to-read classics fiction currently-reading favorites
+4806,"The Bonehunters (Malazan Book of the Fallen, #6)",Steven Erikson,4.42,20359,2006.0,eng,to-read non-fiction science currently-reading nonfiction
+4820,"Beauty's Release (Sleeping Beauty, #3)","A.N. Roquelaure, Anne Rice",3.71,22424,1985.0,eng,to-read history currently-reading non-fiction nonfiction
+4830,"The Ruby Circle (Bloodlines, #6)",Richelle Mead,4.22,29260,2015.0,eng,to-read currently-reading fiction india favorites
+4835,"Sang Pemimpi (Tetralogi Laskar Pelangi, #2)",Andrea Hirata,4.09,12998,2006.0,ind,to-read currently-reading fantasy fiction to-buy
+4865,The Bridge of San Luis Rey,Thornton Wilder,3.8,22003,1927.0,en-US,non-fiction to-read self-improvement nonfiction personal-development
+4866,White Nights,Fyodor Dostoyevsky,4.05,13405,1848.0,eng,to-read self-help non-fiction personal-development psychology
+4894,Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life,Shakti Gawain,4.13,17811,1978.0,eng,to-read currently-reading non-fiction business self-help
+4898,Katherine,"Anya Seton, Philippa Gregory",4.18,22577,1954.0,eng,to-read currently-reading business non-fiction strategy
+4900,Where They Found Her,Kimberly McCreight,3.83,19429,2015.0,eng,to-read currently-reading classics fiction favorites
+4909,"N is for Noose (Kinsey Millhone, #14)",Sue Grafton,3.97,24658,1998.0,eng,to-read non-fiction currently-reading memoir biography
+4912,"Catch Me (Detective D.D. Warren, #6)",Lisa Gardner,4.17,21486,2012.0,eng,to-read non-fiction memoir currently-reading biography
+4921,"Magic Rises (Kate Daniels, #6)",Ilona Andrews,4.49,29556,2013.0,eng,humor favorites humour classic owned
+4929,"White Hot Kiss (The Dark Elements, #1)",Jennifer L. Armentrout,4.28,27848,2014.0,eng,to-read currently-reading favorites fiction magical-realism
+4934,Mockingbird,Kathryn Erskine,4.18,21138,2010.0,eng,classics favorites russian literature russian-literature
+4948,"The Whole Truth (A. Shaw, #1)",David Baldacci,4.0,19171,2008.0,eng,to-read childrens picture-books children-s-books currently-reading
+4950,Out of the Easy,Ruta Sepetys,4.05,25913,2013.0,eng,to-read currently-reading fiction favorites owned
+4952,"Midnight (Warriors: The New Prophecy, #1)",Erin Hunter,4.26,24650,2005.0,eng,to-read memoir historical-fiction nonfiction war
+4953,The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers,Ben Horowitz,4.2,19492,2014.0,eng,to-read currently-reading fiction favorites memoir
+4965,"That Was Then, This Is Now",S.E. Hinton,3.89,22946,1971.0,en-US,to-read currently-reading historical-fiction favorites book-club
+4978,Infinity Welcomes Careful Drivers (Red Dwarf #1),Grant Naylor,4.03,19773,1989.0,eng,to-read currently-reading horror favorites fantasy
+4979,Coyote Blue,Christopher Moore,3.75,19901,1994.0,en-US,to-read non-fiction favorites currently-reading fiction
+4980,فوضى الحواس,"أحلام مستغانمي, Ahlam Mosteghanemi",3.83,16337,1997.0,ara,to-read favorites classics science-fiction humor
+4981,Orthodoxy,G.K. Chesterton,4.23,18303,1908.0,eng,to-read currently-reading classics fiction favorites
+4983,The Heart of the Matter,Graham Greene,3.98,19149,1948.0,eng,to-read fiction currently-reading favorites classics
+4984,"The Long Haul (Diary of a Wimpy Kid, #9)",Jeff Kinney,4.33,21822,2014.0,eng,to-read fiction currently-reading short-stories vonnegut
+4985,"Talking to Dragons (Enchanted Forest Chronicles, #4)","Patricia C. Wrede, Peter de Sève",4.19,27948,1985.0,en-US,to-read currently-reading fiction short-stories favorites
+4986,Sail,"James Patterson, Howard Roughan",3.8,20932,2008.0,eng,to-read fiction vonnegut humor favorites
+4987,The Sleeper and the Spindle,"Neil Gaiman, Chris Riddell",3.9,20889,2014.0,eng,to-read fiction vonnegut currently-reading owned
+4989,"Beauty's Punishment (Sleeping Beauty, #2)","A.N. Roquelaure, Anne Rice",3.62,20867,1984.0,en-US,to-read owned historical-fiction history currently-reading
+5015,"Daughter of the Empire (The Empire Trilogy, #1)","Raymond E. Feist, Janny Wurts",4.24,24055,1987.0,eng,to-read fiction 1001-books contemporary contemporary-fiction
+5038,Chopsticks,"Jessica Anthony, Rodrigo Corral",3.72,18375,2012.0,eng,to-read fantasy currently-reading sword-of-truth owned
+5043,"Cockroaches (Harry Hole, #2)","Jo Nesbø, Don Bartlett",3.71,14717,1998.0,eng,historical-fiction to-read favorites fiction historical
+5052,Mila 18,Leon Uris,4.27,19323,1961.0,eng,to-read fiction currently-reading thriller default
+5053,Drawing from Memory,Allen Say,3.81,21137,2011.0,eng,to-read currently-reading historical-fiction mystery fiction
+5055,Nightfall,"Isaac Asimov, Robert Silverberg",4.01,21683,1970.0,eng,to-read currently-reading fiction historical-fiction thriller
+5062,Mr. Perfect,Linda Howard,4.07,24753,2000.0,eng,historical-fiction fiction to-read thriller historical
+5064,"Waking Up Married (Waking Up, #1)",Mira Lyn Kelly,3.53,23812,2012.0,en-US,historical-fiction to-read fiction historical currently-reading
+5084,The Sheltering Sky,Paul Bowles,3.92,16494,1949.0,eng,to-read memoir currently-reading non-fiction food
+5091,Winter's Bone,Daniel Woodrell,3.92,18306,2006.0,eng,to-read fantasy fiction favorites horror
+5093,"Sword Song (The Saxon Stories, #4)",Bernard Cornwell,4.28,17106,2007.0,en-US,to-read fantasy stephen-king currently-reading fiction
+5094,Deceptively Delicious: Simple Secrets to Get Your Kids Eating Good Food,Jessica Seinfeld,3.39,17837,2007.0,en-US,to-read currently-reading fantasy stephen-king fiction
+5096,"Music of the Heart (Runaway Train, #1)",Katie Ashley,4.0,32013,2013.0,eng,to-read currently-reading fantasy stephen-king fiction
+5107,"Seeds of Rebellion (Beyonders, #2)",Brandon Mull,4.25,20291,2012.0,eng,classics favorites fiction to-read classic
+5113,"Locke & Key, Vol. 2: Head Games","Joe Hill, Gabriel Rodríguez",4.36,22505,2009.0,eng,to-read favorites fiction currently-reading classics
+5114,"Ramona and Her Father (Ramona, #4)","Beverly Cleary, Alan Tiegreen",4.02,22181,1984.0,eng,to-read fiction classics short-stories owned
+5129,"Hide (Detective D.D. Warren, #2)",Lisa Gardner,4.14,21892,2007.0,eng,to-read classics fiction favorites science-fiction
+5130,Ayat-Ayat Cinta,Habiburrahman El-Shirazy,3.81,12345,2004.0,ind,to-read fiction classics favorites science-fiction
+5139,"Wicked Business (Lizzy & Diesel, #2)",Janet Evanovich,3.76,24162,2012.0,eng,to-read chick-lit fiction books-i-own favorites
+5148,"Angelfire (Angelfire, #1)",Courtney Allison Moulton,3.93,27704,2011.0,en-US,classics favorites young-adult to-read school
+5157,A Virtuous Woman,Kaye Gibbons,3.67,21311,1989.0,eng,to-read fiction currently-reading oprah-s-book-club oprah
+5158,"Tears of the Moon (Gallaghers of Ardmore / Irish Trilogy, #2)",Nora Roberts,4.19,24613,1999.0,en-US,to-read fiction oprah-s-book-club currently-reading oprah
+5160,"The Sapphire Rose (The Elenium, #3)",David Eddings,3.98,23232,1991.0,eng,to-read currently-reading non-fiction biography memoir
+5161,Did You Ever Have a Family,Bill Clegg,3.81,17129,2015.0,eng,to-read fiction currently-reading favorites books-i-own
+5166,"Scarpetta (Kay Scarpetta, #16)",Patricia Cornwell,3.72,21975,2008.0,en-US,to-read currently-reading fiction favorites book-club
+5167,"Darkness, Take My Hand (Kenzie & Gennaro, #2)",Dennis Lehane,4.17,19019,1996.0,eng,to-read historical-fiction fiction currently-reading favorites
+5168,"Siege of Darkness (Forgotten Realms: Legacy of the Drow, #3; Legend of Drizzt, #9)",R.A. Salvatore,4.15,17410,1993.0,en-US,to-read fiction favorites chick-lit currently-reading
+5171,"Portrait in Death (In Death, #16)",J.D. Robb,4.37,24958,2003.0,eng,to-read book-club mystery fiction favorites
+5174,The Collector,Nora Roberts,3.92,15888,2014.0,eng,to-read fiction currently-reading favorites historical-fiction
+5175,Sunshine,Robin McKinley,3.85,27918,2003.0,en-US,to-read fiction oprah-s-book-club oprah favorites
+5176,"D is for Deadbeat (Kinsey Millhone, #4)",Sue Grafton,3.85,26075,1987.0,eng,to-read fiction currently-reading oprah-s-book-club books-i-own
+5179,"Throne of Jade (Temeraire, #2)",Naomi Novik,3.89,23015,2006.0,eng,to-read fiction oprah-s-book-club books-i-own historical-fiction
+5180,Mornings on Horseback,David McCullough,4.1,18321,1981.0,en-US,to-read fiction favorites oprah-s-book-club currently-reading
+5181,"Y: The Last Man, Vol. 7: Paper Dolls (Y: The Last Man, #7)","Brian K. Vaughan, Pia Guerra, Goran Sudžuka, José Marzán Jr.",4.25,22220,2006.0,eng,to-read fiction currently-reading oprah-s-book-club oprah
+5182,London,Edward Rutherfurd,4.06,18902,1997.0,en-US,to-read fiction currently-reading oprah-s-book-club oprah
+5186,"Off to Be the Wizard (Magic 2.0, #1)",Scott  Meyer,3.98,12885,2013.0,eng,to-read fiction currently-reading favorites haiti
+5187,Nobody's Fool,Richard Russo,4.12,18392,1993.0,eng,to-read fiction currently-reading oprah-s-book-club favorites
+5190,"Ceaseless (Existence Trilogy, #3)",Abbi Glines,4.2,27823,2012.0,eng,to-read fiction currently-reading chick-lit oprah-s-book-club
+5191,The Cat's Table,Michael Ondaatje,3.59,16631,2011.0,eng,to-read fiction currently-reading books-i-own book-club
+5196,"Find Her (Detective D.D. Warren, #8)",Lisa Gardner,4.12,15957,2016.0,eng,to-read currently-reading chick-lit favorites maeve-binchy
+5197,"Frigid (Frigid, #1)","J. Lynn, Jennifer L. Armentrout",3.79,32611,2013.0,eng,to-read currently-reading fiction classics historical-fiction
+5198,Of Love and Shadows,"Isabel Allende, Margaret Sayers Peden",3.96,15919,1984.0,eng,to-read currently-reading fiction favorites books-i-own
+5204,"The Walking Dead, Vol. 04: The Heart's Desire","Robert Kirkman, Charlie Adlard, Cliff Rathburn",4.23,21488,2005.0,eng,to-read fiction favorites owned currently-reading
+5205,"The Stonekeeper's Curse (Amulet, #2)",Kazu Kibuishi,4.33,21461,2009.0,eng,to-read fiction currently-reading books-i-own favorites
+5211,Pay It Forward,Catherine Ryan Hyde,4.15,18220,1999.0,eng,to-read fiction favorites historical-fiction book-club
+5246,"Raw (RAW Family, #1)",Belle Aurora,4.23,19180,2014.0,eng,classics fiction classic favorites to-read
+5289,"Police (Harry Hole, #10)","Jo Nesbø, Don Bartlett",4.22,14495,2013.0,eng,to-read currently-reading classics fiction favorites
+5296,The Chemist,Stephenie Meyer,3.69,25188,2016.0,eng,to-read classics plays currently-reading fiction
+5297,"Empress Orchid (Empress Orchid, #1)",Anchee Min,3.87,17318,2003.0,en-US,to-read currently-reading classics favorites fiction
+5306,"The Confusion (The Baroque Cycle, #2)",Neal Stephenson,4.24,17381,2004.0,en-US,to-read non-fiction travel classics memoir
+5308,"Independent Study (The Testing, #2)",Joelle Charbonneau,3.97,20593,2014.0,eng,to-read classics fiction currently-reading classic
+5326,"VALIS (VALIS Trilogy, #1)",Philip K. Dick,3.94,17305,1981.0,eng,to-read classics currently-reading fiction favorites
+5338,"This World We Live In (Last Survivors, #3)",Susan Beth Pfeffer,3.81,23711,2010.0,en-US,to-read classics fiction currently-reading christmas
+5344,"A Game of Thrones: Comic Book, Issue 1","Daniel Abraham, George R.R. Martin, Tommy Patterson",4.65,18667,2011.0,eng,to-read classics currently-reading fiction classic
+5345,"White Cat (Curse Workers, #1)",Holly Black,3.81,29444,2010.0,eng,to-read currently-reading non-fiction grisham true-crime
+5346,Where I'm Calling From: New and Selected Stories,Raymond Carver,4.42,16617,1988.0,en-US,to-read fiction john-grisham currently-reading mystery
+5347,"Something Rotten (Thursday Next, #4)",Jasper Fforde,4.15,24526,2004.0,eng,to-read fiction john-grisham currently-reading sports
+5348,"The Land of Painted Caves (Earth's Children, #6)",Jean M. Auel,3.24,19300,2011.0,eng,to-read currently-reading john-grisham fiction default
+5349,Autobiography of a Face,Lucy Grealy,3.96,18982,1994.0,en-GB,fiction to-read thriller mystery grisham
+5350,Vanishing Girls,Lauren Oliver,3.59,19508,2015.0,en-CA,to-read fiction john-grisham thriller mystery
+5352,"Darke (Septimus Heap, #6)","Angie Sage, Mark Zug",4.23,21322,2011.0,eng,to-read fiction john-grisham currently-reading mystery
+5354,The Thin Man,Dashiell Hammett,3.97,20535,1934.0,eng,to-read fiction john-grisham currently-reading thriller
+5355,Trading Up,Candace Bushnell,3.2,15604,2003.0,eng,to-read fiction john-grisham currently-reading mystery
+5356,"The Uplift War (The Uplift Saga, #3)",David Brin,4.06,20217,1987.0,en-US,to-read fiction john-grisham currently-reading mystery
+5357,"Rage of a Demon King (The Serpentwar Saga, #3)",Raymond E. Feist,4.02,19206,1997.0,en-US,to-read fiction christmas john-grisham humor
+5358,Lucky Jim,"Kingsley Amis, David Lodge",3.79,17448,1954.0,eng,to-read fiction thriller mystery currently-reading
+5359,"A Faint Cold Fear (Grant County, #3)",Karin Slaughter,4.12,18827,2003.0,en-US,to-read fiction john-grisham mystery thriller
+5360,"The Rose Society (The Young Elites, #2)",Marie Lu,4.11,27655,2015.0,eng,to-read fiction john-grisham currently-reading favorites
+5367,"Eon (The Way, #1)",Greg Bear,3.86,18373,1984.0,en-US,to-read fantasy currently-reading favorites fiction
+5368,The Summer Before the War,Helen Simonson,3.79,17350,2016.0,eng,to-read historical-fiction currently-reading fiction romance
+5369,"Memories, Dreams, Reflections","C.G. Jung, Aniela Jaffé, Richard Winston, Clara Winston",4.19,16810,1961.0,eng,to-read thriller fiction mystery currently-reading
+5439,Don't Panic: The Official Hitchhiker's Guide to the Galaxy Companion,Neil Gaiman,4.31,18015,1987.0,eng,to-read fiction short-stories favorites india
+5452,Schooled,Gordon Korman,3.82,20411,2000.0,en-US,to-read young-adult ya fiction books-i-own
+5453,It Starts with Food: Discover the Whole30 and Change Your Life in Unexpected Ways,"Dallas Hartwig, Melissa Hartwig",4.09,13643,2012.0,en-US,to-read ya books-i-own fiction series
+5454,Merle's Door: Lessons from a Freethinking Dog,Ted Kerasote,4.18,14953,2007.0,en-US,to-read young-adult ya fiction books-i-own
+5470,"2061: Odyssey Three (Space Odyssey, #3)",Arthur C. Clarke,3.52,17843,1987.0,eng,fiction science-fiction sci-fi dystopian classic
+5472,"The Walk (The Walk, #1)",Richard Paul Evans,4.12,16224,2010.0,en-US,to-read currently-reading classics fiction favorites
+5479,The Rose Garden,Susanna Kearsley,4.01,18553,2011.0,eng,to-read currently-reading classics fiction favorites
+5481,"The English Assassin (Gabriel Allon, #2)",Daniel Silva,4.12,16810,2002.0,en-US,to-read currently-reading classics fiction non-fiction
+5508,"Sherlock Holmes: The Complete Novels and Stories, Volume I",Arthur Conan Doyle,4.45,17950,1927.0,eng,to-read history non-fiction biography currently-reading
+5509,"Strong Poison (Lord Peter Wimsey, #6)",Dorothy L. Sayers,4.14,18578,1930.0,eng,to-read memoir classics non-fiction wwii
+5517,"Every Boy's Got One (Boy, #3)",Meg Cabot,3.77,19771,2004.0,en-GB,to-read plays classics fiction currently-reading
+5526,Flush,Carl Hiaasen,3.86,20076,2005.0,en-US,to-read currently-reading romance nicholas-sparks favorites
+5527,Out of Africa,"Isak Dinesen, Karen Blixen",3.96,21687,1937.0,eng,to-read currently-reading fiction classics favorites
+5544,"Article 5 (Article 5, #1)",Kristen Simmons,3.78,23732,2012.0,en-US,science biography to-read nonfiction physics
+5548,"Kisscut (Grant County, #2)",Karin Slaughter,4.12,18833,2002.0,eng,to-read science biography non-fiction currently-reading
+5552,"Drums, Girls & Dangerous Pie (Drums, Girls & Dangerous Pie, #1)",Jordan Sonnenblick,4.25,18551,2004.0,eng,to-read science currently-reading physics non-fiction
+5553,The First Bad Man,Miranda July,3.58,15560,2015.0,eng,to-read non-fiction nonfiction owned currently-reading
+5559,"Changeless (Parasol Protectorate, #2)",Gail Carriger,4.0,30703,2010.0,eng,to-read biography currently-reading non-fiction management
+5571,The Pursuit of Holiness,"Jerry Bridges, Foster W. Cline, Jim Fay",4.28,14574,1978.0,eng,to-read design currently-reading science architecture
+5575,Halo: The Fall of Reach,Eric S. Nylund,4.25,14525,2001.0,eng,to-read james-patterson currently-reading mystery fiction
+5659,Sins of the Night (Dark-Hunter #7),Sherrilyn Kenyon,4.18,28341,2005.0,eng,classics to-read fiction childrens fantasy
+5693,Stuff White People Like: A Definitive Guide to the Unique Taste of Millions,Christian Lander,3.76,15888,2008.0,en-US,to-read currently-reading short-stories fiction classics
+5695,"The Power That Preserves (The Chronicles of Thomas Covenant the Unbeliever, #3)",Stephen R. Donaldson,3.99,18594,1977.0,eng,to-read favorites russian-literature literature russia
+5697,Entwined,Heather Dixon,3.87,28950,2011.0,en-US,to-read currently-reading fiction classics russian
+5720,"Lead (Stage Dive, #3)",Kylie Scott,4.32,29239,2014.0,eng,to-read fiction currently-reading thriller tom-clancy
+5752,"Preacher, Volume 9: Alamo","Garth Ennis, Steve Dillon",4.33,17930,2001.0,eng,to-read science psychology non-fiction philosophy
+5755,Valiant (Modern Faerie Tales #2),Holly Black,3.92,26108,2002.0,eng,to-read currently-reading non-fiction science linguistics
+5759,"Midnight (The Vampire Diaries: The Return, #3)",L.J. Smith,3.78,20566,2011.0,en-US,to-read fiction favorites contemporary owned
+5787,Are You My Mother?,Alison Bechdel,3.66,18618,2012.0,eng,to-read currently-reading short-stories fiction favorites
+5797,You Belong To Me,Mary Higgins Clark,3.85,19131,1998.0,en-US,to-read classics currently-reading fiction classic
+5805,"Tris's Book (Circle of Magic, #2)",Tamora Pierce,4.07,24511,1998.0,eng,to-read graphic-novels currently-reading graphic-novel comics
+5809,Che Guevara: A Revolutionary Life,Jon Lee Anderson,4.1,13516,1997.0,eng,to-read currently-reading fiction favorites literature
+5826,"In the Company of Cheerful Ladies (No. 1 Ladies' Detective Agency, #6)",Alexander McCall Smith,4.07,19839,2004.0,eng,to-read fiction currently-reading favorites book-club
+5849,Daytripper,"Fábio Moon, Gabriel Bá, Craig Thompson, Dave Stewart, Sean Konot",4.31,17679,2011.0,eng,fiction to-read favorites india caribbean
+5890,"The Prophet of Yonwood (Book of Ember, #3)",Jeanne DuPrau,3.25,22237,2006.0,en-US,classics mystery favorites classic gothic
+5907,Our Mutual Friend,Charles Dickens,4.07,18599,1865.0,eng,fantasy favorites classics to-read fiction
+5932,Sister of My Heart,Chitra Banerjee Divakaruni,3.97,14434,1997.0,eng,favorites to-read classics spanish romance
+5936,The Face,Dean Koontz,3.69,17267,2003.0,eng,to-read poetry currently-reading favorites classics
+5946,"The Quillan Games (Pendragon, #7)",D.J. MacHale,4.19,18296,2005.0,eng,to-read fiction canadian favorites historical-fiction
+5954,A Head Full of Ghosts,Paul Tremblay,3.82,14101,2015.0,eng,to-read fiction classics german literature
+6138,The Hidden Staircase (Nancy Drew #2),"Carolyn Keene, Mildred Benson",3.94,24872,1930.0,en-US,to-read classics mystery fiction classic
+6149,"The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It",Kelly McGonigal,4.11,15318,2011.0,eng,to-read fiction currently-reading classics favorites
+6150,"Broken Angels (Takeshi Kovacs, #2)",Richard K. Morgan,4.0,15544,2003.0,eng,to-read fiction classics africa favorites
+6174,Drop Shot (Myron Bolitar #2),Harlan Coben,3.92,17128,1996.0,eng,to-read jewish biographies college currently-reading
+6185,"Secret Prey (Lucas Davenport, #9)",John Sandford,4.25,16964,1998.0,en-GB,classics favorites to-read fiction classic
+6192,The Romanov Prophecy,Steve Berry,3.9,17052,2004.0,eng,to-read fiction currently-reading favorites africa
+6193,Ecstasy Unveiled (Demonica #4),Larissa Ione,4.36,23366,2010.0,eng,to-read fiction currently-reading favorites 1001-books
+6194,The Uncommon Reader,Alan Bennett,3.82,16957,2007.0,eng,to-read fiction favorites africa 1001-books
+6259,The Sicilian,Mario Puzo,3.94,13800,1984.0,eng,to-read currently-reading historical-fiction fiction favorites
+6294,Private Games (Private #3),"James Patterson, Mark T. Sullivan",3.83,14358,2012.0,eng,to-read fantasy fiction currently-reading series
+6295,"The Cold Dish (Walt Longmire, #1)",Craig Johnson,4.14,14491,2004.0,eng,to-read poetry favorites classics beat
+6310,The Universe Versus Alex Woods,Gavin Extence,4.08,12573,2013.0,eng,fiction children favorites childhood to-read
+6319,Shattered,"K.R. Dwyer, Dean Koontz",3.87,17224,1973.0,eng,to-read childrens fantasy children-s childhood
+6327,The Nine: Inside the Secret World of the Supreme Court,Jeffrey Toobin,4.06,12426,2007.0,en-US,to-read childrens fantasy favorites currently-reading
+6328,The Violets of March,Sarah Jio,3.8,17379,2011.0,en-US,to-read poetry childrens children fiction
+6334,The Cat in the Hat Comes Back,Dr. Seuss,3.83,22229,1958.0,en-US,to-read currently-reading fiction science-fiction dystopia
+6419,"Sex Criminals, Vol. 1: One Weird Trick","Matt Fraction, Chip Zdarsky",3.99,22017,2014.0,eng,to-read mystery janet-evanovich fiction humor
+6420,"The Rising: Antichrist is Born  (Before They Were Left Behind, #1)","Tim LaHaye, Jerry B. Jenkins",4.18,13412,2003.0,eng,to-read mystery janet-evanovich fiction humor
+6422,"The Scarpetta Factor (Kay Scarpetta, #17)",Patricia Cornwell,3.67,16388,2009.0,en-US,to-read mystery janet-evanovich fiction humor
+6423,"The Winner's Kiss (The Winner's Trilogy, #3)",Marie Rutkoski,4.29,23125,2016.0,eng,to-read mystery janet-evanovich fiction humor
+6424,"Bad Things (Tristan & Danika, #1)",R.K. Lilley,4.33,27420,2013.0,eng,to-read mystery janet-evanovich fiction humor
+6425,"Here be Dragons (Welsh Princes, #1)",Sharon Kay Penman,4.3,16205,1985.0,eng,to-read mystery janet-evanovich fiction humor
+6427,The Whipping Boy,"Sid Fleischman, Peter Sís",3.54,18090,1986.0,eng,to-read mystery janet-evanovich currently-reading fiction
+6440,"The Butlerian Jihad (Legends of Dune, #1)","Brian Herbert, Kevin J. Anderson",3.57,14868,2002.0,eng,to-read classics currently-reading fiction historical-fiction
+6462,"Sentinel (Covenant, #5)",Jennifer L. Armentrout,4.49,24150,2013.0,eng,to-read history biography currently-reading non-fiction
+6514,The Hat,Jan Brett,4.25,17033,1997.0,eng,to-read currently-reading favorites classics fiction
+6520,"The Monkey's Raincoat (Elvis Cole, #1)",Robert Crais,3.98,14940,1987.0,en-US,to-read currently-reading favorites fiction memoir
+6526,Kitten's First Full Moon,Kevin Henkes,4.07,18458,2004.0,eng,to-read currently-reading mystery patricia-cornwell fiction
+6528,"A Good Yarn (Blossom Street, #2)",Debbie Macomber,4.11,16467,2005.0,en-US,to-read mystery patricia-cornwell currently-reading fiction
+6530,Titus Andronicus,William Shakespeare,3.71,16235,1589.0,en-US,to-read thriller cornwell currently-reading cornwell-patricia
+6531,"The Initiation / The Captive Part I (The Secret Circle, #1-2)",L.J. Smith,3.96,19563,2008.0,eng,to-read mystery patricia-cornwell crime fiction
+6534,"Grave Secret (Harper Connelly, #4)",Charlaine Harris,3.94,22334,2009.0,eng,to-read mystery crime fiction patricia-cornwell
+6537,"The Enchantress Returns (The Land of Stories, #2)","Chris Colfer, Brandon Dorman",4.49,17845,2013.0,eng,to-read patricia-cornwell mystery default currently-reading
+6538,"The Master Magician (The Paper Magician Trilogy, #3)",Charlie N. Holmberg,3.82,17142,2015.0,en-GB,to-read non-fiction true-crime currently-reading history
+6539,One Door Away from Heaven,Dean Koontz,3.95,16299,2001.0,en-US,to-read mystery crime fiction thriller
+6541,"Attack of the Fiend (The Last Apprentice / Wardstone Chronicles, #4)","Joseph Delaney, Patrick  Arrasmith",4.19,14814,2007.0,eng,to-read mystery patricia-cornwell crime fiction
+6551,"With a Tangled Skein (Incarnations of Immortality, #3)",Piers Anthony,3.98,17286,1985.0,en-GB,to-read currently-reading fiction classics favorites
+6554,"Into the Labyrinth (The Death Gate Cycle, #6)","Margaret Weis, Tracy Hickman",4.09,16582,1993.0,en-US,to-read horror john-saul fiction currently-reading
+6596,"Murder of Crows (The Others, #2)",Anne Bishop,4.31,22994,2014.0,eng,to-read currently-reading non-fiction self-help spiritual
+6613,The Heavenly Man: The Remarkable True Story of Chinese Christian Brother Yun,"Paul Hattaway, Brother Yun",4.33,12537,2000.0,eng,chick-lit fiction currently-reading books-i-own chicklit
+6614,"Prince of Fools (The Red Queen's War, #1)",Mark  Lawrence,4.07,11579,2014.0,eng,to-read chick-lit currently-reading fiction books-i-own
+6628,"The Frog Princess (Tales of the Frog Princess, #1)",E.D. Baker,3.81,22176,2002.0,eng,to-read humor currently-reading owned books-i-own
+6656,Winnie the Pooh and Tigger Too (Disney's Wonderful World of Reading),Walt Disney Company,4.39,14121,1976.0,eng,currently-reading classics poetry fiction favorites
+6667,"Crave (Fallen Angels, #2)",J.R. Ward,4.09,22105,2010.0,en-US,to-read currently-reading non-fiction biography childrens-books
+6670,When Rabbit Howls,"Truddi Chase, Robert A. Phillips Jr.",4.03,13975,1980.0,en-GB,to-read childrens fantasy fiction roald-dahl
+6671,"Variant (Variant, #1)",Robison Wells,3.92,18473,2011.0,en-US,to-read childhood kids default currently-reading
+6687,Hitch-22: A Memoir,Christopher Hitchens,4.03,12643,2010.0,eng,to-read childrens fantasy fiction children
+6689,"Dark Magic (Dark, #4)",Christine Feehan,4.24,20156,2000.0,eng,to-read childrens fantasy fiction children
+6694,15th Affair (Women's Murder Club #15),"James Patterson, Maxine Paetro",4.04,11112,2016.0,eng,to-read childrens children fiction roald-dahl
+6697,Barnyard Dance,Sandra Boynton,4.25,18694,1993.0,en-US,to-read fiction chick-lit books-i-own favorites
+6708,A Fish Out of Water,"Helen Marion Palmer, P.D. Eastman",4.21,19536,1961.0,eng,to-read spirituality non-fiction self-help currently-reading
+6709,"Look to Windward (Culture, #7)",Iain M. Banks,4.16,13916,2000.0,eng,to-read currently-reading self-help spiritual non-fiction
+6748,Uganda Be Kidding Me,Chelsea Handler,3.63,11627,2014.0,eng,to-read currently-reading non-fiction essays favorites
+6749,"This Book Is Not Good for You (Secret, #3)","Pseudonymous Bosch, Gilbert Ford",4.29,16852,2009.0,en-US,to-read currently-reading short-stories fiction favorites
+6750,Eating the Dinosaur,Chuck Klosterman,3.75,12571,2009.0,eng,to-read currently-reading fiction literature novels
+6753,All the Birds in the Sky,Charlie Jane Anders,3.58,14769,2016.0,eng,to-read short-stories currently-reading favorites fiction
+6759,"Indebted (The Premonition, #3)",Amy A. Bartol,4.37,17988,2012.0,en-GB,to-read currently-reading fiction favorites owned
+6819,"Life is What You Make It: A Story of Love, Hope and How Determination Can Overcome Even Destiny",Preeti Shenoy,3.54,11292,2011.0,eng,to-read fiction currently-reading favorites fantasy
+6820,"The History of Sexuality, Volume 1: An Introduction","Michel Foucault, Robert Hurley",4.03,12565,1976.0,eng,to-read currently-reading fiction favorites japan
+6853,The Unexpected Mrs. Pollifax  (Mrs. Pollifax #1),Dorothy Gilman,4.14,15666,1966.0,eng,to-read mystery currently-reading fiction janet-evanovich
+6854,"White Fire (Pendergast, #13)","Douglas Preston, Lincoln Child",4.07,12277,2013.0,eng,to-read mystery janet-evanovich fiction humor
+6858,"S is for Silence (Kinsey Millhone, #19)",Sue Grafton,3.9,17879,2005.0,eng,to-read mystery janet-evanovich fiction humor
+6862,"March: Book One (March, #1)","John             Lewis, Andrew Aydin, Nate Powell",4.33,19430,2013.0,eng,to-read fiction currently-reading booker-prize 1001-books
+6867,Malgudi Days,"R.K. Narayan, Jhumpa Lahiri",4.2,11527,1943.0,eng,to-read currently-reading favorites historical-fiction romance
+6870,Digging to America,Anne Tyler,3.53,15484,2006.0,eng,to-read fiction currently-reading favorites 1001-books
+6872,"Flaskepost fra P (Afdeling Q, #3)",Jussi Adler-Olsen,4.04,9658,2009.0,dan,to-read fiction currently-reading 1001-books 1001
+6882,The Shallows: What the Internet is Doing to Our Brains,Nicholas Carr,3.85,6938,2010.0,eng,currently-reading non-fiction fiction biography adventure
+6900,"Twisted Palace (The Royals, #3)",Erin Watt,4.0,16342,2016.0,eng,to-read currently-reading favorites non-fiction fiction
+6969,"The Mind Readers (Mind Readers, #1)",Lori Brighton,3.76,9825,2010.0,eng,currently-reading classics to-read fiction favorites
+6976,"Superman: Earth One, Volume 1","J. Michael Straczynski, Shane Davis, Sandra Hope, Barbara Ciardo, Rob Leigh",3.9,12982,2010.0,eng,to-read fiction currently-reading book-club books-i-own
+7035,House of Suns,Alastair Reynolds,4.19,13033,2008.0,eng,to-read mystery fiction africa currently-reading
+7036,"A Shadow of Light (A Shade of Vampire, #4)",Bella Forrest,4.1,16380,2013.0,eng,to-read mystery fiction africa series
+7039,The Brothers Lionheart,"Astrid Lindgren, Ilon Wikland, Jill M. Morgan",4.35,16325,1973.0,eng,to-read mystery fiction africa currently-reading
+7053,Fade Away (Myron Bolitar #3),Harlan Coben,3.99,14679,1996.0,eng,to-read mystery fiction africa series
+7058,"The Black Lyon (Montgomery/Taggert, #1)",Jude Deveraux,3.99,14456,1980.0,eng,to-read mystery fiction africa currently-reading
+7061,"Beautiful Bombshell (Beautiful Bastard, #2.5)",Christina Lauren,4.06,23755,2013.0,en-US,to-read mystery fiction currently-reading africa
+7062,"Slated (Slated, #1)",Teri Terry,4.07,17404,2012.0,eng,to-read currently-reading travel non-fiction memoir
+7069,"Wieża Jaskółki (Saga o Wiedźminie, #6)",Andrzej Sapkowski,4.34,10195,1997.0,pol,fiction favorites classics literature contemporary
+7073,Loving Mr. Daniels,Brittainy C. Cherry,4.28,18058,2014.0,eng,to-read fiction favorites owned india
+7082,Fevre Dream,George R.R. Martin,3.85,12708,1982.0,eng,sci-fi to-read favorites scifi dystopia
+7126,"Guilty as Sin  (Deer Lake, #2)",Tami Hoag,4.1,13575,1996.0,eng,classics favorites fiction to-read classic
+7144,"Middle School: The Worst Years of My Life (Midde School, #1)","James Patterson, Chris Tebbetts, Laura Park",4.01,14178,2011.0,eng,fiction to-read classic russian literature
+7184,"Second Honeymoon (Honeymoon, #2)","James Patterson, Howard Roughan",3.89,11418,2013.0,eng,to-read classics currently-reading fiction historical-fiction
+7186,Brain Droppings,George Carlin,4.11,13255,1997.0,eng,to-read classics currently-reading favorites fiction
+7190,What I Thought Was True,Huntley Fitzpatrick,3.71,16390,2014.0,eng,classics fiction favorites historical-fiction classic
+7194,"Wicked Ties (Wicked Lovers, #1)",Shayla Black,3.97,22097,2007.0,en-US,to-read mystery currently-reading historical-fiction thriller
+7199,My Life on the Road,Gloria Steinem,4.08,15997,2015.0,eng,to-read fiction currently-reading favorites historical-fiction
+7201,"Sweet Little Lies (L.A. Candy, #2)",Lauren Conrad,3.53,14901,2010.0,en-US,to-read fiction currently-reading jeffrey-archer favorites
+7214,Violin,Anne Rice,3.26,14911,1997.0,eng,to-read currently-reading christian non-fiction favorites
+7244,"Blood of Dragons (Rain Wild Chronicles, #4)",Robin Hobb,4.12,12165,2013.0,eng,to-read favorites historical-fiction currently-reading fiction
+7252,"Sweet Surrender (Sweet, #1)",Maya Banks,3.99,20856,2008.0,en-US,to-read currently-reading non-fiction biography memoir
+7329,We Need New Names,NoViolet Bulawayo,3.71,11262,2013.0,eng,to-read fantasy currently-reading tolkien fiction
+7332,Wicca: A Guide for the Solitary Practitioner,Scott Cunningham,4.01,12264,1988.0,en-US,fiction currently-reading to-read classics owned
+7354,The Mask,"Owen  West, Dean Koontz",3.75,14336,1981.0,eng,to-read fiction currently-reading favorites pulitzer
+7389,"After We Fell (After, #3)",Anna Todd,3.88,12776,2014.0,eng,to-read comics graphic-novels graphic-novel young-adult
+7432,The Perfect Son,Barbara Claypole White,3.97,10090,2015.0,eng,to-read mystery historical-fiction fiction mysteries
+7433,Looking for Alibrandi,Melina Marchetta,3.85,14685,1992.0,eng,to-read mystery historical-fiction fiction currently-reading
+7437,A Midsummer's Nightmare,Kody Keplinger,3.83,17247,2012.0,eng,to-read fiction classics favorites owned
+7442,"It's in His Kiss (Bridgertons, #7)",Julia Quinn,4.01,20377,2005.0,eng,to-read non-fiction currently-reading fiction nonfiction
+7445,"Fire Inside (Chaos, #2)",Kristen Ashley,4.33,20786,2013.0,eng,to-read currently-reading favorites non-fiction memoir
+7455,News of the World,Paulette Jiles,4.14,15476,2016.0,eng,to-read chick-lit fiction currently-reading books-i-own
+7493,Odd and the Frost Giants,"Neil Gaiman, Mark Buckingham",3.95,15407,2008.0,eng,to-read history currently-reading nonfiction american-history
+7494,The Magpies,Mark  Edwards,3.8,6663,2013.0,eng,to-read romance james-patterson fiction favorites
+7510,"One More Chance (Rosemary Beach, #8; Chance, #2)",Abbi Glines,4.29,23899,2014.0,eng,to-read james-patterson mystery currently-reading fiction
+7531,"The Gentlemen's Alliance †, Vol. 1",Arina Tanemura,3.96,13260,2005.0,eng,to-read humor non-fiction memoir currently-reading
+7572,Can't Wait to Get to Heaven,Fannie Flagg,3.89,12262,2006.0,eng,to-read fiction currently-reading favorites humor
+7588,Turtle in Paradise,Jennifer L. Holm,3.93,14714,2010.0,en-US,to-read currently-reading classics fiction favorites
+7603,"All Tomorrow's Parties (Bridge, #3)",William Gibson,3.88,11672,1999.0,en-US,to-read non-fiction memoir iran nonfiction
+7604,"The Quantum Thief (Jean le Flambeur, #1)",Hannu Rajaniemi,3.83,11137,2010.0,eng,to-read literature fiction favorites classics
+7613,"Chasing the Prophecy (Beyonders, #3)",Brandon Mull,4.35,11816,2013.0,eng,classics fiction favorites classic dystopia
+7624,"Once and Always (Sequels, #1)",Judith McNaught,4.21,18197,1987.0,eng,classics to-read fiction favorites classic
+7628,Onward: How Starbucks Fought for Its Life without Losing Its Soul,"Howard Schultz, Joanne Gordon",3.79,11119,2007.0,en-CA,to-read fiction classics currently-reading favorites
+7661,Dom Casmurro,Machado de Assis,4.24,10590,1899.0,por,to-read fiction currently-reading science-fiction sci-fi
+7663,"Lockdown (Escape from Furnace, #1)",Alexander Gordon Smith,4.1,14024,2009.0,en-US,to-read fiction currently-reading thriller mystery
+7667,Lost Souls,Poppy Z. Brite,3.89,13905,1992.0,eng,to-read fiction thriller currently-reading mystery
+7669,The Way of Zen,Alan W. Watts,4.18,11166,1957.0,eng,to-read fiction science-fiction sci-fi currently-reading
+7670,"Nexus (Nexus, #1)",Ramez Naam,4.06,9623,2012.0,eng,to-read science-fiction sci-fi thriller currently-reading
+7672,"The Traitor (Divergent, #0.4)",Veronica Roth,4.19,12299,2014.0,eng,to-read fiction science-fiction thriller sci-fi
+7673,Nora Webster,Colm Tóibín,3.58,10353,2014.0,eng,to-read fiction historical-fiction fantasy currently-reading
+7675,"The Emperor's Tomb (Cotton Malone, #6)",Steve Berry,3.95,13159,2010.0,en-US,to-read fiction thriller currently-reading michael-crichton
+7677,Baking: From My Home to Yours,"Dorie Greenspan, Alan    Richardson",4.18,11662,1980.0,en-US,to-read science-fiction fiction sci-fi favorites
+7679,"For You (The 'Burg, #1)",Kristen Ashley,4.19,23889,2011.0,eng,to-read fiction science-fiction sci-fi thriller
+7682,"Friend-Zoned (Friend-Zoned, #1)",Belle Aurora,3.99,20585,2013.0,eng,to-read fiction historical-fiction currently-reading thriller
+7707,"L.A. Requiem (Elvis Cole, #8)",Robert Crais,4.26,12632,1999.0,fre,to-read plays classics fiction drama
+7714,The Bronze Bow,Elizabeth George Speare,3.93,15507,1961.0,en-US,to-read classics plays currently-reading fiction
+7723,Discourse on Method,"René Descartes, Donald A. Cress",3.7,10615,1637.0,eng,to-read currently-reading classics fiction short-stories
+7728,The Earthsea Trilogy,Ursula K. Le Guin,4.25,14199,1975.0,eng,to-read classics plays drama school
+7733,True Evil,Greg Iles,4.05,11234,2006.0,eng,to-read classics currently-reading fiction fantasy
+7742,The Gate House,Nelson DeMille,3.71,12625,2008.0,en-US,to-read historical-fiction favorites currently-reading fiction
+7745,"Perfect Scoundrels (Heist Society, #3)",Ally Carter,4.28,20029,2013.0,en-GB,to-read currently-reading favorites fiction non-fiction
+7748,"Nemesis (Miss Marple, #12)",Agatha Christie,3.84,15406,1971.0,eng,to-read currently-reading non-fiction politics history
+7769,Scoop,Evelyn Waugh,3.86,12032,1937.0,eng,to-read childrens children-s-books picture-books children
+7770,Tales of a Female Nomad: Living at Large in the World,Rita Golden Gelman,3.84,11380,2001.0,eng,to-read childrens children-s-books children picture-books
+7779,I'm with the Band: Confessions of a Groupie,"Pamela Des Barres, Dave Navarro",3.67,11172,1987.0,en-US,to-read childrens picture-books children children-s-books
+7780,"Succubus Heat (Georgina Kincaid, #4)",Richelle Mead,4.19,20108,2009.0,en-GB,to-read art non-fiction currently-reading dr-seuss
+7784,Wolverine: Origin,"Paul Jenkins, Andy Kubert, Richard Isanove, Joe Quesada, Bill Jemas",3.96,10790,2001.0,eng,favorites children children-s to-read classics
+7785,"Dawn (Cutler, #1)",V.C. Andrews,3.87,13674,1990.0,eng,to-read childrens picture-books children children-s-books
+7788,"The Wayfarer Redemption (Wayfarer Redemption, #1)",Sara Douglass,3.93,12632,1995.0,eng,to-read childrens children children-s-books children-s
+7797,"Dark Reunion (The Vampire Diaries, #4)",L.J. Smith,3.54,17056,1991.0,eng,to-read children kids childrens-books picture-books
+7815,"The Friend Zone (Game On, #2)",Kristen Callihan,4.21,21130,2015.0,eng,to-read non-fiction memoir nonfiction favorites
+7869,The Consolations of Philosophy,Alain de Botton,3.99,10291,2000.0,en-US,to-read currently-reading fiction thriller mystery
+7882,The Little Coffee Shop of Kabul,Deborah Rodriguez,3.57,7607,2011.0,eng,to-read historical-fiction childrens fiction children
+7909,The Odd Couple,Neil Simon,4.02,12571,1965.0,eng,to-read childrens classics fiction children-s
+7911,"Divided in Death (In Death, #18)",J.D. Robb,4.32,17321,2004.0,en-US,classics to-read childrens fiction children
+7926,"The Hollow (The Hollow, #1)",Jessica Verday,3.75,16734,2009.0,eng,to-read historical-fiction childrens fiction favorites
+7967,What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People,"Joe Navarro, Marvin Karlins",3.9,10204,2008.0,eng,to-read science-fiction sci-fi favorites currently-reading
+7968,Finding the Dream (Dream Trilogy #3),Nora Roberts,4.06,16408,1996.0,eng,fantasy to-read fiction alternate-history owned
+7973,"Where You Are (Between the Lines, #2)",Tammara Webber,3.94,18402,2011.0,eng,to-read fantasy favorites fiction currently-reading
+7979,Born to Run,Bruce Springsteen,4.18,14276,2016.0,eng,to-read fantasy redwall fiction young-adult
+7980,Primates of Park Avenue,Wednesday Martin,3.05,9210,2015.0,eng,to-read fantasy redwall fiction young-adult
+7981,"Cold Fire (The Circle Opens, #3)",Tamora Pierce,4.05,17424,2002.0,eng,to-read fantasy redwall fiction young-adult
+7983,Visions of Heat (Psy-Changeling #2),Nalini Singh,4.13,22754,2007.0,eng,fantasy to-read fiction young-adult redwall
+7987,The Hydrogen Sonata (Culture #10),Iain M. Banks,4.15,10964,2012.0,eng,fantasy to-read redwall young-adult fiction
+7993,"Secret History (Mistborn, #3.5)",Brandon Sanderson,4.38,12796,2016.0,eng,to-read fantasy fiction young-adult redwall
+7996,"Visions in Death (In Death, #19)",J.D. Robb,4.33,16888,2004.0,eng,fantasy favorites young-adult fiction to-read
+7999,"Safe with Me (With Me in Seattle, #5)",Kristen Proby,4.37,21643,2013.0,eng,to-read fantasy redwall young-adult owned
+8073,Very Valentine,Adriana Trigiani,3.8,13279,2009.0,en-US,to-read picture-books childrens children-s-books children
+8087,The Lions of Al-Rassan,Guy Gavriel Kay,4.27,13954,1995.0,eng,to-read fantasy favorites fairy-tales young-adult
+8088,Such a Pretty Girl,Laura Wiess,3.89,13445,2007.0,eng,to-read favorites vampires urban-fantasy paranormal
+8089,"Until Trevor (Until, #2)",Aurora Rose Reynolds,4.2,22493,2013.0,eng,to-read fantasy fairy-tales young-adult romance
+8155,"The Hedge Knight (The Tales of Dunk and Egg, #1)",George R.R. Martin,4.23,14003,1998.0,eng,to-read currently-reading fiction favorites romance
+8172,"Ouran High School Host Club, Vol. 2 (Ouran High School Host Club, #2)",Bisco Hatori,4.46,14350,2003.0,eng,to-read comics graphic-novels superman graphic-novel
+8248,"Branded (Fall of Angels, #1)",Keary Taylor,3.7,9790,2010.0,eng,to-read classics historical-fiction childrens fiction
+8252,"Feral Sins (The Phoenix Pack, #1)",Suzanne Wright,4.12,21978,2012.0,eng,to-read childrens classics young-adult favorites
+8253,Tintin in the Land of the Soviets (Tintin #1),"Hergé, Leslie Lonsdale-Cooper, Michael Turner",3.67,10702,1930.0,eng,to-read classics historical-fiction childrens fiction
+8282,Faithful,Alice Hoffman,4.02,12442,2017.0,eng,to-read classics historical-fiction childrens fiction
+8296,Awakening the Buddha Within: Tibetan Wisdom for the Western World,Lama Surya Das,4.18,9912,1997.0,en-US,to-read currently-reading historical-fiction classics children-s-lit
+8337,Fifth Business,Robertson Davies,4.04,11651,1970.0,eng,to-read classics currently-reading historical-fiction childhood
+8492,Sailing Alone Around the Room: New and Selected Poems,Billy Collins,4.24,10999,2001.0,eng,to-read christian-fiction fiction christian currently-reading
+8515,This Time Together: Laughter and Reflection,Carol Burnett,4.05,10609,2010.0,eng,to-read non-fiction horses currently-reading animals
+8600,Train Dreams,"Denis Johnson, Bettina Abarbanell",3.89,4886,2002.0,ger,to-read non-fiction currently-reading nonfiction writing
+8646,"Spying in High Heels (High Heels, #1)",Gemma Halliday,3.67,11034,2006.0,eng,to-read fiction currently-reading book-club canadian
+8647,"The Lady in the Lake (Philip Marlowe, #4)",Raymond Chandler,4.07,11613,1943.0,eng,to-read science-fiction sci-fi fiction scifi
+8650,"Justice, Volume 1","Jim Krueger, Alex Ross, Doug Braithwaite",4.14,10232,2006.0,eng,fiction science-fiction thriller to-read favorites
+8676,Lush Life,Richard Price,3.69,9478,2008.0,eng,to-read currently-reading self-help self-improvement personal-development
+8680,"Reunion (Redemption, #5)","Karen Kingsbury, Gary Smalley",4.49,11105,2004.0,en-US,to-read fiction currently-reading favorites humor
+8682,Thérèse Raquin,"Émile Zola, Robin Buss",3.71,10734,1867.0,eng,fiction to-read humor book-club magical-realism
+8694,"Strangers in Death (In Death, #26)",J.D. Robb,4.29,15651,2008.0,eng,to-read science-fiction sci-fi currently-reading fiction
+8695,"The Archived (The Archived, #1)",Victoria Schwab,4.02,16580,2013.0,eng,to-read science-fiction sci-fi currently-reading fiction
+8696,Glengarry Glen Ross,David Mamet,3.95,11636,1983.0,eng,to-read non-fiction currently-reading science favorites
+8698,The Sound of Gravel,Ruth Wariner,4.15,12045,2016.0,eng,to-read science-fiction sci-fi fiction humor
+8725,"Two Ravens and One Crow (The Iron Druid Chronicles, #4.5)",Kevin Hearne,4.2,11562,2012.0,eng,to-read food memoir non-fiction nonfiction
+8732,Lies Women Believe: And the Truth that Sets Them Free,"Nancy Leigh DeMoss, Elisabeth Elliot",4.1,9714,2000.0,eng,to-read classics fiction currently-reading classic
+8745,"Girls in Love (Girls, #1)",Jacqueline Wilson,3.53,11953,1997.0,eng,to-read non-fiction biography currently-reading africa
+8852,"Wildest Dreams (Fantasyland, #1)",Kristen Ashley,4.19,19790,2011.0,eng,currently-reading plays favorites to-read fiction
+8908,Mother Courage and Her Children,"Bertolt Brecht, David Hare",3.66,9705,1941.0,eng,to-read horror fiction favorites zombies
+8909,"Up from the Grave (Night Huntress, #7)",Jeaniene Frost,4.28,19059,2014.0,eng,to-read currently-reading classics science-fiction sci-fi
+8914,We the Animals,Justin Torres,3.61,10616,2011.0,eng,to-read history currently-reading non-fiction military-history
+8921,"Meg (MEG, #1)",Steve Alten,3.76,9946,1997.0,eng,classics currently-reading mystery fiction favorites
+8948,"Zita the Spacegirl (Zita the Spacegirl, #1)",Ben Hatke,4.04,10832,2011.0,eng,to-read young-adult vampires horror favorites
+8949,"Paradiso (The Divine Comedy, #3)","Dante Alighieri, Dorothy L. Sayers, Barbara Reynolds",3.94,9701,1320.0,eng,to-read fantasy young-adult vampires horror
+8952,"Take This Regret (Take This Regret, #1)","Amy Lichtenhan, A.L. Jackson",4.06,19241,2011.0,eng,to-read fantasy young-adult vampires horror
+8957,The Sweet Life in Paris: Delicious Adventures in the World's Most Glorious - and Perplexing - City,David Lebovitz,3.85,9754,2009.0,eng,to-read fantasy young-adult vampires horror
+8960,The Red House,Mark Haddon,2.93,10621,2012.0,eng,to-read fantasy young-adult vampires horror
+8962,"Twelfth Grade Kills (The Chronicles of Vladimir Tod, #5)",Heather Brewer,4.36,13282,2010.0,eng,to-read fantasy young-adult vampires horror
+8963,Ice Station Zebra,Alistair MacLean,3.95,12689,1963.0,eng,young-adult vampires horror darren-shan favorites
+8964,A. Lincoln,Ronald C. White Jr.,4.22,8890,2009.0,en-US,to-read christian currently-reading non-fiction biography
+8965,Four Great Tragedies: Hamlet / Othello / King Lear / Macbeth,"William Shakespeare, Sylvan Barnet, Alvin Kernan, Russell Fraser",4.41,12700,1982.0,en-US,to-read fantasy young-adult vampires horror
+8966,Ain't She Sweet,Susan Elizabeth Phillips,4.05,15890,2004.0,en-GB,to-read fantasy young-adult vampires horror
+8967,"Promised (One Night, #1)",Jodi Ellen Malpas,4.14,16727,2014.0,eng,to-read fantasy young-adult vampires horror
+8968,Bruiser,Neal Shusterman,4.04,12499,2010.0,en-US,fantasy young-adult vampires horror favorites
+9010,"Burning For Revenge (Tomorrow, #5)",John Marsden,4.18,11616,1997.0,eng,to-read non-fiction humor memoir comedy
+9013,"Hourglass (Hourglass, #1)",Myra McEntire,3.8,17572,2011.0,eng,to-read non-fiction history nonfiction currently-reading
+9282,"Staked (The Iron Druid Chronicles, #8)",Kevin Hearne,4.23,9082,2016.0,eng,to-read fiction currently-reading romance favorites
+9298,The Case of Charles Dexter Ward,H.P. Lovecraft,4.2,10153,1941.0,eng,to-read chick-lit fiction currently-reading romance
+9300,Paint it Black,Janet Fitch,3.47,9092,2006.0,eng,to-read chick-lit currently-reading fiction romance
+9301,"Ever After (Lost Love, #2)",Karen Kingsbury,4.31,9685,2006.0,en-US,to-read chick-lit currently-reading fiction favorites
+9303,Mythologies,"Roland Barthes, Annette Lavers",4.11,9325,1957.0,eng,to-read chick-lit fiction romance chicklit
+9328,"The Boyfriend Thief (Stolen Kiss, #1)",Shana Norris,3.74,12080,2011.0,eng,to-read fiction magical-realism historical-fiction classics
+9355,"The Girl in the Steel Corset (Steampunk Chronicles, #1)",Kady Cross,3.81,17825,2011.0,eng,to-read currently-reading fiction favorites owned
+9370,Heart on a Chain,Cindy C. Bennett,4.04,16007,2010.0,en-GB,to-read fiction currently-reading favorites humor
+9375,Influencer: The Power to Change Anything,"Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler",3.98,8036,2007.0,en-GB,to-read fiction favorites currently-reading historical-fiction
+9417,"Skippyjon Jones in Mummy Trouble (Skippyjon Jones, #3)",Judy Schachner,4.25,11076,2006.0,en-US,to-read fiction currently-reading chicklit chick-lit
+9418,Daily Rituals: How Artists Work,Mason Currey,3.66,8565,2013.0,eng,to-read fiction currently-reading chick-lit romance
+9419,"The Boy Who Came Back from Heaven: A Remarkable Account of Miracles, Angels, and Life beyond This World","Kevin Malarkey, Alex Malarkey",3.89,8945,2010.0,eng,to-read chick-lit fiction currently-reading chicklit
+9420,"Knight & Stay (Knight, #2)",Kitty French,4.19,18124,2013.0,eng,to-read chick-lit fiction currently-reading sophie-kinsella
+9475,Adam,Ted Dekker,3.93,9903,2008.0,eng,to-read currently-reading young-adult favorites childrens
+9503,"Out of Egypt (Christ the Lord, #1)",Anne Rice,3.56,10729,2005.0,eng,to-read currently-reading fiction books-i-own owned
+9516,The Way the Crow Flies,Ann-Marie MacDonald,4.08,10227,2003.0,en-US,to-read graphic-novels graphic-novel non-fiction favorites
+9517,In the Miso Soup,"Ryū Murakami, Ralph McCarthy",3.61,9285,1997.0,eng,to-read graphic-novels graphic-novel comics non-fiction
+9522,Beyond Band of Brothers: The War Memoirs of Major Dick Winters,"Dick Winters, Cole C. Kingseed",4.24,9712,2006.0,eng,to-read graphic-novels comics favorites graphic-novel
+9530,"The Quiche of Death (Agatha Raisin, #1)",M.C. Beaton,3.75,10925,1992.0,eng,to-read non-fiction currently-reading nonfiction history
+9531,Crush,Richard Siken,4.33,11597,2005.0,eng,to-read fantasy currently-reading favorites young-adult
+9532,"The Marvelous Land of Oz (Oz, #2)","L. Frank Baum, David McKee",3.82,11402,1904.0,eng,to-read science-fiction sci-fi favorites fiction
+9539,"The First Confessor (The Legend of Magda Searus, #1)",Terry Goodkind,4.19,9311,2012.0,eng,to-read fantasy currently-reading fiction wheel-of-time
+9549,Gargantua and Pantagruel,"François Rabelais, M.A. Screech",3.71,10379,1532.0,eng,to-read star-wars science-fiction sci-fi fiction
+9555,شاب كشك في رحلة البحث عن الجادون,عمرو سلامة,3.66,8128,2011.0,ara,to-read currently-reading short-stories fiction favorites
+9566,Attack of the Deranged Mutant Killer Monster Snow Goons,Bill Watterson,4.72,9713,1992.0,eng,fiction currently-reading favorites humor owned
+9567,"Crewel (Crewel World, #1)",Gennifer Albin,3.74,14101,2012.0,eng,to-read fiction currently-reading favorites humor
+9569,The Hate U Give,Angie Thomas,4.62,32610,2017.0,eng,to-read currently-reading humor fiction favorites
+9570,المانيفستو,مصطفى إبراهيم,4.21,7943,2013.0,ara,to-read fiction currently-reading favorites humor
+9589,Scaredy Squirrel (Scaredy Squirrel),Mélanie Watt,4.25,11638,2006.0,eng,to-read fiction currently-reading vonnegut favorites
+9592,The Survivors Club,Lisa Gardner,4.05,11458,2002.0,eng,to-read fiction favorites classics currently-reading
+9593,Mine to Possess (Psy-Changeling #4),Nalini Singh,4.13,18617,2008.0,eng,to-read science-fiction currently-reading fiction favorites
+9594,Don't Breathe a Word,Jennifer McMahon,3.58,10585,2011.0,en-US,to-read favorites owned humor classics
+9595,The Force Awakens (Star Wars),"Alan Dean Foster, Lawrence Kasdan, J.J. Abrams, Michael Arndt",3.73,7514,2015.0,eng,to-read fiction favorites vonnegut science-fiction
+9597,"Grave Dance (Alex Craft, #2)",Kalayna Price,4.11,16435,2011.0,eng,to-read currently-reading science-fiction fiction sci-fi
+9598,"Soul Eater, Vol. 02 (Soul Eater, #2)",Atsushi Ohkubo,4.47,9443,2004.0,eng,to-read fiction currently-reading vonnegut favorites
+9601,Superman: Whatever Happened to the Man of Tomorrow?,"Alan Moore, Curt Swan, George Pérez, Kurt Schaffenberger",4.14,10472,1985.0,eng,to-read fiction currently-reading favorites vonnegut
+9646,"Blood Defense (Samantha Brinkman, #1)",Marcia Clark,3.81,11761,2016.0,eng,to-read currently-reading history non-fiction favorites
+9648,Soul on Ice,Eldridge Cleaver,3.95,10123,1968.0,en-GB,fiction to-read classics 1001-books 1001
+9712,"Magic Binds (Kate Daniels, #9)",Ilona Andrews,4.57,10983,2016.0,eng,to-read historical-fiction books-i-own novels classic
+9717,Winter in Madrid,C.J. Sansom,3.79,8629,2006.0,eng,to-read currently-reading favorites fiction classics
+9742,"Mates, Dates, and Inflatable Bras (Mates, Dates, #1)",Cathy Hopkins,3.73,10270,2001.0,eng,to-read currently-reading non-fiction politics biography
+9777,Half Way Home,Hugh Howey,3.7,5012,2010.0,en-GB,to-read currently-reading fiction favorites india
+9784,Selected Poems,"E.E. Cummings, Richard S. Kennedy",4.22,11174,1994.0,eng,classics to-read currently-reading fiction favorites
+9791,A Window Opens,Elisabeth Egan,3.53,8544,2015.0,eng,non-fiction to-read travel nonfiction favorites
+9799,"The Space Between (Outlander, #7.5)",Diana Gabaldon,4.22,10814,2013.0,eng,to-read favorites rory-gilmore-reading-challenge rory-gilmore-challenge rory-gilmore
+9804,"Heartstone (Matthew Shardlake, #5)",C.J. Sansom,4.31,8297,2010.0,eng,to-read currently-reading fiction favorites classics
+9809,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Marie Kondō,3.82,10483,2016.0,eng,to-read currently-reading fiction favorites fantasy
+9820,"Think Twice (Rosato & Associates, #11)",Lisa Scottoline,3.62,10211,2010.0,en-US,to-read fiction currently-reading favorites classics
+9822,Owl Babies,"Martin Waddell, Patrick Benson",4.19,11299,1975.0,en-GB,to-read fantasy childrens fiction favorites
+9827,"Summer on Blossom Street (Blossom Street, #6)",Debbie Macomber,4.19,10681,2009.0,eng,to-read historical-fiction fiction currently-reading favorites
+9833,Turn Right at Machu Picchu: Rediscovering the Lost City One Step at a Time,Mark    Adams,3.8,8650,2011.0,en-US,to-read short-stories fiction currently-reading japan
+9838,"The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion","Perry Moore, Andrew Adamson, C.S. Lewis",4.48,7328,2005.0,en-US,to-read non-fiction memoir biography travel
+9844,"Life Before Legend: Stories of the Criminal and the Prodigy (Legend, #0.5)",Marie Lu,4.02,13933,2012.0,eng,to-read fiction currently-reading young-adult favorites
+9864,Austerlitz,"W.G. Sebald, Anthea Bell",4.04,8267,2001.0,en-GB,to-read fiction favorites 1001-books magical-realism
+9912,Henry's Freedom Box: A True Story from the Underground Railroad,"Ellen Levine, Kadir Nelson",4.46,11204,2007.0,eng,to-read fiction currently-reading favorites contemporary
+9913,A Thousand Boy Kisses,Tillie Cole,4.29,10586,2016.0,eng,to-read fiction currently-reading favorites 1001-books
+9914,"Eve (Eve Duncan, #12; Eve, Quinn and Bonnie #1)",Iris Johansen,4.08,11020,2011.0,en-US,to-read fiction short-stories owned currently-reading
+9915,The Accident,Linwood Barclay,3.93,9638,2011.0,eng,to-read fiction currently-reading favorites contemporary
+9943,Sherlock Holmes and the Case of the Hound of the Baskervilles (Illustrated Classic Editions),"Malvina G. Vogel, Arthur Conan Doyle",4.49,9805,1977.0,eng,to-read christian-fiction christian fiction currently-reading
+9957,"Inside of a Dog: What Dogs See, Smell, and Know",Alexandra Horowitz,3.55,8770,2009.0,en-GB,to-read fiction 1001-books favorites contemporary
+9998,The Mauritius Command,Patrick O'Brian,4.35,9421,1977.0,eng,to-read fiction japan currently-reading japanese
