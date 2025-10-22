@@ -1,4 +1,6 @@
 #  Book Recommendation System
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://capstone-recommendation-system-ny5a3a6zdkvcsu35dyfjpg.streamlit.app/)
+
 
 This project is a simple **book recommendation system** built using Python. It suggests books that are similar to each other based on genres, and tags. The final app was made using **Streamlit** so you can see the recommendations in a nice dashboard.
 
