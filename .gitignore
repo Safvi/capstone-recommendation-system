@@ -1,0 +1,19 @@
+# Ignore processed data (too large for GitHub)
+data/processed/*.csv
+
+# Ignore raw data
+data/raw/*.csv
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
